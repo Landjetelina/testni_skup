@@ -1,0 +1,68 @@
+Gpt - 4o
+-----------------------------------------
+1. **Right Image**: A yellow banana.
+
+   **Left Image**: A modern kitchen with bar stools, a foosball table, arcade game, and shelves with jars.
+
+2. **Search for Banana**:
+   - **Observation**: The banana is not visible in the kitchen.
+   - **Suggested Search Locations**: 
+     - On the kitchen counter.
+     - In one of the shelves amid the jars.
+     - Inside the cupboards or fridge.
+
+   - **Rectangular Search Area Coordinates**: 
+     - (40, 0), (100, 0), (100, 60), (40, 60)
+
+3. **Top 3 Likely Search Places in the Room**:
+   - On the kitchen counter.
+   - Inside cupboards or drawers.
+   - On the shelves.
+
+   - **Probability of Success**: 80%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+- Right image: A yellow banana
+- Left image: A modern open-plan kitchen with dining area, featuring a wooden island with bar stools, white upper cabinets, pendant lighting, and a foosball table
+
+**Search results:**
+The banana is **not visible** in the kitchen scene.
+
+**Suggested search locations:**
+Based on typical kitchen storage and the room layout, the banana would most likely be found in:
+
+1. **Inside the refrigerator** - bananas are commonly stored in fridges to extend freshness
+2. **In the pantry or cabinet storage** - behind the closed upper or lower cabinet doors
+3. **On the kitchen counter behind the island** - in areas not visible from this viewing angle
+
+**Search area coordinates:** The most probable area to search would be the kitchen counter and cabinet area: (45, 25), (85, 25), (85, 65), (45, 65)
+
+**Probability of finding the banana in at least one of these locations: 75%**
+
+The object is realistic in this context as bananas are common kitchen items typically stored in refrigerators, pantries, or on counters.
+
+
+Qwen 2.5
+-----------------------------------------
+**Identified Object in the Right Image:** "a yellow banana"
+
+**Identified Room in the Left Image:** "a modern arcade room"
+
+**Search Results:**
+- The banana is not visible in the provided left image.
+- Given the context of an arcade room, a yellow banana could be in one of the following places:
+  1. In a snack bin near the counter area.
+  2. Inside the arcade machine or in a adjacent storage area.
+  3. In a small break area or a staff room.
+
+**Top 3 Most Likely Places to Search in the Room (in %):**
+1. Near the counter area (50%)
+2. In the arcade machine/stored nearby (30%)
+3. In a small break area (20%)
+
+**Rectangular Search Area (x1, y1), (x2, y2), (x3, y3), (x4, y4) - If Object is Not Found:**
+- (0, 0), (85, 2), (100, 50), (0, 50)

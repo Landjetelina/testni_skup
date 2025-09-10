@@ -1,0 +1,69 @@
+Gpt - 4o
+-----------------------------------------
+
+1. Object in the right image:
+   - Description: A black TV remote control.
+
+2. Room in the left image:
+   - Description: A living room with a cozy, rustic style featuring a brown sofa, wooden coffee table, plants, and decorative pillows. 
+
+3. Search for the object in the room:
+   - The TV remote is **not visible** in the living room image.
+
+4. Suggested search area and coordinates:
+   - Likely places to search:
+     1. On the coffee table.
+     2. Under the cushions or between the pillows on the sofa.
+     3. Inside a drawer if the table has one.
+   - Probability of success in these locations: 70%.
+   - Rectangular search area coordinates:
+     - Coffee table: (30%, 20%), (70%, 20%), (70%, 40%), (30%, 40%)
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A black TV remote control with blue and colored buttons (appears to be a streaming device remote, possibly Roku or similar).
+
+**Room Description:** A bohemian-style living room with a tan leather sofa covered in decorative pillows, a wooden coffee table with storage, dark cabinets/entertainment center, plants, and rustic decor elements including a bull skull on the wall.
+
+**Search Result:** The remote is **not visible** in the living room image.
+
+**Search Recommendation:** 
+The remote is likely hidden from view in areas where remotes are commonly placed. I suggest searching:
+
+**Top 3 Most Likely Locations:**
+1. **Between/under the sofa cushions** - remotes often slip into cushions during use
+2. **In the wooden coffee table storage compartments** - the coffee table appears to have built-in storage drawers/shelves
+3. **On or behind items on the entertainment center/dark cabinets** - remotes are often placed near TV equipment
+
+**Search Area Coordinates:** Focus on the sofa and coffee table area: (15%, 15%), (70%, 15%), (70%, 65%), (15%, 65%)
+
+**Probability of Success:** 75% - These are the most common locations for misplaced remotes in a living room setting.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The object in the right image is "a black TV remote".
+2. The room in the left image is a "living room".
+
+3. The TV remote is not visible in this room. Considering the typical places where a TV remote would be kept based on the aspects of this room:
+
+   a. **Possible first place**: A drawer or cabinet under the sofa.
+      
+   Search area: (0%, 50%), (50%, 50%), (50%, 100%), (0%, 100%) - Representing the area under the sofa where TV remotes are often kept, especially if there is a cabinet nearby.
+   
+   The coordinates for this area are: (0%, 50%), (50%, 50%), (50%, 100%), (0%, 100%).
+
+   b. **Second likely place** based on commonality: On or near the TV itself, if there is a TV in the room. Presuming there might be a TV in this living room:
+   
+   Search area: (45%, 35%), (55%, 30%), (65%, 40%), (55%, 45%) - Representing the TV cabinet area.
+
+   Coordinates for this area are: (45%, 35%), (55%, 30%), (65%, 40%), (55%, 45%).
+
+4. The third most likely location would be a coffeetable or a similar surface if there is one:
+
+   Search area: (25%, 30%), (75%, 20%), (75%, 40%), (25%, 50%)
+   
+   Coordinates for this area are: (25%, 30%), (75%, 20%), (75%, 40%), (25%, 50%).
+
+Probability: 75%

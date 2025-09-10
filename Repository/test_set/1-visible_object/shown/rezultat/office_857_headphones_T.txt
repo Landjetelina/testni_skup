@@ -1,0 +1,55 @@
+Gpt - 4o
+-----------------------------------------
+1. The room in the image is an office or study room with a cluttered desk setup.
+
+2. **Object Search**:
+   - The black wired headphones are visible on the desk near the keyboard.
+   - **Approximate Position**: (60, 25).
+
+Since the object is found, no further search suggestions are needed.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a home office/study room with a large desk setup featuring dual monitors, various office supplies, books, and personal items scattered across the workspace.
+
+**Search Results:**
+The black wired headphones are **not visible** in the image.
+
+**Suggested Search Areas:**
+Based on the office environment and visible clutter, the headphones are likely in areas not clearly visible in the current view. The most logical places to search would be:
+
+**Top 3 Most Likely Locations:**
+1. **In or behind the desk drawers** - Office desks commonly have drawers where headphones are stored when not in use
+2. **Among the stacked books and papers** on the left side of the desk - The clutter could easily conceal headphones
+3. **Behind or underneath the monitors** - Headphones are often hung on monitor stands or placed behind the display area
+
+**Search Area Coordinates:** (0, 30), (70, 30), (70, 70), (0, 70)
+
+This rectangular area covers the main desk surface where headphones would most likely be located but are currently obscured by the visible clutter.
+
+**Probability of Success:** 75% - Given that this is an active computer workstation, headphones are very commonly used and stored in such spaces.
+
+
+Qwen 2.5
+-----------------------------------------
+The left image shows an office space with a desk, dual monitors, a cat, and various items cluttering the desk.
+
+1. **Room Context and Description**:
+    - The room is an office space.
+
+2. **Search for the Object**:
+    - The black wired headphones are not visible in the image.
+
+3. **Likely Places**:
+    - **Top 3 Most Likely Places**:
+        1. **Under the desk**: Probability of 30%.
+        2. **On a shelf or cabinet nearby**: Probability of 25%.
+        3. **Under the pile of wires or cables**: Probability of 20%.
+
+4. **Search Area Coordinates**:
+    - (Under the desk): (60, 10), (70, 5), (70, 5), (60, 10).
+    - (On a shelf or cabinet nearby): (80, 75), (95, 85), (95, 85), (80, 75).
+    - (Under the pile of wires or cables): (45, 65), (55, 75), (65, 75), (55, 65).

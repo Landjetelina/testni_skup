@@ -1,0 +1,63 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description**:
+   - **Object (Right Image)**: A silver fork.
+   - **Room (Left Image)**: A modern living room with a sofa, coffee table, TV, and decorative elements.
+
+2. **Search**:
+   - The silver fork is **not visible** in the living room.
+
+3. **Suggestions**:
+   - **Most likely search locations** in the living room:
+     - On the coffee table, possibly under items or cushion (30, 20, 70, 40).
+     - Near or inside sofa cushions.
+     - On any side tables or near decorative items.
+
+4. **Probability**:
+   - Probability of finding the fork in one of these locations: **20%**.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:** A black/dark metal fork with four tines.
+
+**Room identification:** A modern living room with a gray sectional sofa, white coffee table, white entertainment unit with TV, and contemporary decor.
+
+**Search result:** The fork is **not visible** in the living room.
+
+**Analysis:** A dining fork would be unrealistic to find loose in this living room setting. Forks belong in kitchen areas, specifically in cutlery drawers, dishwashers, or dining areas - not in living rooms.
+
+**Top 3 most likely search locations:**
+1. Kitchen cutlery drawer (not visible in this room)
+2. Dishwasher in the kitchen area
+3. Dining room table or sideboard (if there's an adjacent dining area)
+
+**Probability of finding the fork in at least one of these locations:** 85%
+
+**Suggested search area:** Since this object is contextually inappropriate for a living room, I recommend searching the kitchen area instead, which is not visible in this image.
+
+**Search coordinates (if searching the visible area anyway):** The white coffee table area where items might temporarily be placed: (35, 15), (65, 15), (65, 35), (35, 35)
+
+
+Qwen 2.5
+-----------------------------------------
+**Left Image (Room):** A cozy modern living room with a sofa, coffee table, and a TV mounted on the wall. The walls are painted white with a mix of modern and minimalist design elements.
+
+**Right Image (Object):** A metal fork with a sleek handle, presented in a clean, studio-like setting.
+
+**Search for the fork:**
+
+The fork is **not visible in the left image**. Considering the context of the room, here are the top 3 most likely places to find a fork:
+
+1. **Nearest side table or coffee table:** If it's not on the central coffee table, it might be on one of the side tables to the left or right.
+2. **Dining area (if there is one):** Forks are usually found in a kitchen or dining room.
+3. **Near the TV or media unit:** It could be placed there as a decorative or functional item.
+
+**Search Area:**
+The search areas for the missing fork could be:
+- Bottom-left: (0, 0) to (20, 15)
+- Beside the sofa: (25, 60) to (45, 75)
+- On the adjacent side table: (50, 55) to (60, 70)
+
+The probability of finding the fork in at least one of these locations is estimated at **75%**.

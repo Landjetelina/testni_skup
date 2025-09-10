@@ -1,0 +1,64 @@
+Gpt - 4o
+-----------------------------------------
+
+1. **Object in the right image:**
+   - A white wireless keyboard.
+
+2. **Room in the left image:**
+   - A modern office space with multiple workstations, computers, chairs, and desks.
+
+3. **Search for the object in the left image:**
+
+   - **Visibility:** The white wireless keyboard is not visible in the office image.
+
+   - **Suggested search areas & probability:**
+     - On or under desks near computers (e.g., at (20, 15), (40, 15), (40, 35), (20, 35)).
+     - In storage compartments or drawers.
+     - Around seating areas.
+   - **Probability of success searching top three places:** 80%
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+Right image: A white/silver wireless computer keyboard with standard QWERTY layout.
+
+**Room identification:**
+Left image: A modern open-plan office space with contemporary design, featuring workstations with blue chairs, white desks, decorative ceiling elements, and large windows.
+
+**Search results:**
+The keyboard is **not visible** in the office space. While I can see workstations with blue chairs and white desks, no keyboards are clearly visible on any of the desk surfaces from this viewing angle.
+
+**Most likely search locations:**
+1. **On desk surfaces at workstations** - keyboards would typically be placed directly in front of computer monitors
+2. **In desk drawers** - keyboards are often stored in pull-out keyboard trays or drawers
+3. **On side tables or secondary surfaces** - keyboards might be temporarily placed on nearby surfaces
+
+**Suggested search area coordinates:**
+The main workstation area where keyboards would most likely be located:
+(15, 15), (85, 15), (85, 45), (15, 45)
+
+**Probability of success:** 85% - Keyboards are essential office equipment and would very likely be present at the workstations, just not visible from this particular viewing angle or distance.
+
+
+Qwen 2.5
+-----------------------------------------
+**Object in the right image:** A silver wireless keyboard.
+
+**Room in the left image:** A modern office space, likely a cubicle or open-plan office area.
+
+**Search for the keyboard:**
+The keyboard is **not visible in the image**. Based on the room context, it's likely that the keyboard is either:
+1. In a user's personal workstation.
+2. Storage area (drawer, cabinet).
+3. On another desk or table.
+
+**Coordinates of a possible search area (desk area):**
+(10, 65) to (55, 75)
+
+**Top 3 most likely places to search in the room:**
+1. **On a personal workstation desk**: Assuming the keyboard is located here, the search area would range from (25, 30) to (50, 50).
+2. **In a drawer**: The keyboard could be in a desk drawer. The search area would range from (20, 35) to (50, 60).
+3. **In a shared storage area**: If this is an office, a common area for storing items could be a storage cabinet or desk drawer.
+
+**Probability of success for finding the keyboard at least one location:**
+30%

@@ -1,0 +1,47 @@
+Gpt - 4o
+-----------------------------------------
+1. Room Description:
+   - The image shows a modern living room. It features a red sofa, two blue armchairs, a set of nested round tables, a large window, open shelving with decorative items, a colorful wall art piece, and a wooden sideboard.
+
+2. Object Search:
+   - The glasses are located on the round table closest to the armchairs.
+   - Approximate position: (50%, 25%).
+
+Since the glasses were found, no additional search is needed.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern living room with contemporary design featuring floor-to-ceiling windows, a red sofa, two blue accent chairs, a white round coffee table, and a built-in entertainment center with shelving and storage units.
+
+**Object Search - Glasses:**
+The glasses are **not visible** in this image. I have carefully examined all visible surfaces including the coffee table, shelving units, and other furniture surfaces where glasses would typically be placed.
+
+**Suggested Search Areas:**
+Based on the room context, glasses would most likely be found in areas not clearly visible or accessible in the current view:
+
+**Top 3 most likely places to search:**
+1. **Inside the drawers/cabinets** of the teal storage unit in the entertainment center
+2. **On the side tables or surfaces** behind/beside the blue chairs (not fully visible from this angle)
+3. **On the shelving compartments** of the built-in unit that may be obscured by decorative items
+
+**Search area coordinates:** (40, 20), (90, 20), (90, 70), (40, 70)
+
+**Probability of success:** 75% - Glasses are commonly stored in living room furniture or on surfaces near seating areas, and this room has multiple storage options and partially obscured surfaces where they could reasonably be located.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The room in the left image is a modern living room.
+
+2. A pair of glasses can be seen on the round table in the center of the room, placed on top of a closed book. 
+   - Approximate Coordinates: (45, 65), (87, 65)
+
+3. Additional probable locations to search for the object, given the context, are:
+   - On a person's face or eyes if someone is present in the room: (20, 50), (80, 50)
+   - In pockets of someone who might be walking through the room: (30, 45), (90, 45)
+   - On surfaces like windowsills or on the dining table if the room extends into a kitchen: (25, 20), (75, 20)
+
+4. The probability of finding the glasses in these locations is approximately 70%, given typical patterns of placement and usage.

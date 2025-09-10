@@ -1,0 +1,65 @@
+Gpt - 4o
+-----------------------------------------
+1. Right Image: A yellow rubber duck.
+   Left Image: A cozy, rustic living room with a sofa, coffee table, and decorations like plants and wall art.
+
+2. Search:
+   - The rubber duck is **not visible** in the living room.
+
+   Suggestions:
+   - Consider searching in hidden spots like under the sofa cushions, or behind items on the table if they move.
+   - Check drawers in furniture like the cabinet.
+
+   Rectangular search area: (35, 0), (45, 0), (45, 15), (35, 15).
+
+3. Most Likely Places:
+   - Sofa cushions: 35%
+   - Coffee table shelves or drawers: 30%
+   - Around or behind decorations: 35%
+
+   Probability of finding the object in these areas: 60%.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A yellow rubber duck with an orange/red beak - a classic bath toy.
+
+**Room Description:** A modern bohemian-style living room with a brown leather sofa, patterned pillows, wooden coffee table, dark armoire, plants, and decorative wall hangings.
+
+**Search Result:** The rubber duck is **not visible** in the living room.
+
+**Analysis:** A rubber duck in a living room context is somewhat unrealistic, as these are typically bathroom toys used during bath time. However, it could potentially be present as a decorative item, novelty object, or if someone has young children.
+
+**Top 3 Most Likely Places to Search:**
+1. **Bathroom** - Most logical location for a rubber duck
+2. **Children's bedroom/playroom** - If there are children in the household
+3. **Storage areas/drawers** - Could be stored away when not in use
+
+**Suggested Search Area in Room:** Since the object is not typically found in living rooms, but if searching this space, I would suggest checking the storage compartments in the wooden coffee table.
+
+**Search Area Coordinates:** (25, 15), (75, 15), (75, 35), (25, 35)
+
+**Probability of Success:** 15% - Low probability since rubber ducks are not typically found in living rooms.
+
+
+Qwen 2.5
+-----------------------------------------
+### Identification:
+- **Left Image:** The left image depicts a living room with a brown leather sofa adorned with patterned pillows, a woods coffee table, some plants, and decor like a skull and a string of mobiles.
+- **Right Image:** The object in the right image is a yellow rubber duck.
+
+### Search:
+1. **Left Image Search:** In the left image, there is no yellow object resembling a rubber duck. The room does not appear to have any bathtub or space where a rubber duck would be stored, nor would it be in the living room decor.
+   
+2. **Coordinates of Search Area (if non-existent):**  
+   - Top-left corner: (10, 10)
+   - Bottom-right corner: (90, 90)
+
+3. **Top 3 Most Likely Places to Search (if object not found):**
+   - **Probability (30%):** In a bathroom.
+   - **Probability (20%):** In a toddler’s room.
+   - **Probability (20%):** On a child's table or play area.
+
+### Reasoning:
+Given the absence of a bathtub in the living room setting and the non-living presence of the rubber duck, it is highly unlikely that the outdoor rubber duck object would be found in this room. The suggested search areas are based on a common placement for a rubber duck and typical habits to keep the object away from the living room.

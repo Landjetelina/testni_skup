@@ -1,0 +1,65 @@
+Gpt - 4o
+-----------------------------------------
+1. **Identification and Description:**
+   - **Object:** A black mechanical keyboard.
+   - **Room:** A well-decorated home office with a dotted accent wall, black sofa with pillows, a desk, and a chair.
+
+2. **Search for the Object:**
+   - The keyboard is **not visible** in the room.
+
+3. **Suggestion for Searching:**
+   - The most likely places to search for the keyboard in the room would be:
+     1. On or near the desk (potentially under papers or inside drawers).
+     2. Around the area near the chair.
+     3. On the small cabinets or shelves.
+
+   - **Probability of Success:** There is approximately a **70% chance** of finding the keyboard in these locations.
+
+4. **Rectangular Search Area Coordinates:**
+   - Desk and adjacent areas: 
+     - (15, 15), (35, 15), (35, 25), (15, 25)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A black mechanical keyboard with red accent keys (appears to be ESC and another key).
+
+**Room Description:** A modern home office/study room with white walls, polka dot wallpaper accent wall, a white desk with drawers, black loveseat, decorative pillows, artwork gallery wall, and various office supplies.
+
+**Search Results:** The black keyboard is **not visible** in the room.
+
+**Suggested Search Location:** The keyboard would most likely be stored in or near the desk area since this is a home office setup. I recommend searching the desk drawers or the area around/under the desk where computer peripherals are typically stored.
+
+**Search Area Coordinates:** (5, 15), (45, 15), (45, 55), (5, 55)
+
+**Top 3 Most Likely Places to Search:**
+1. Inside the white desk drawers
+2. On a keyboard tray under the desk (not visible from this angle)
+3. In a storage area behind or beside the desk setup
+
+**Probability of Success:** 75% - Very likely to find the keyboard in one of these desk-related storage locations, as this is clearly a computer workspace and keyboards are essential peripherals typically stored nearby.
+
+
+Qwen 2.5
+-----------------------------------------
+Right image:
+- The object is "a black keyboard" with red corners.
+
+Left image:
+- The room is "a part of a living room."
+
+Search analysis:
+- The keyboard is not visible in the left image.
+
+Suggested search area:
+- Since the keyboard is mostly black, it could be in locations with other black items that are often in living rooms, such as couches, tables, or shelves.
+- Possible locations might include the couch, a table, a shelf, or the desk.
+
+Top 3 most likely places:
+1. Couch at (50, 65)
+2. Table at (25, 30)
+3. Desk at (10, 50)
+
+Probability of finding the object:
+- 60%

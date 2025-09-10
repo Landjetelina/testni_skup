@@ -1,0 +1,64 @@
+Gpt - 4o
+-----------------------------------------
+1. The room is a modern kitchen.
+
+2. **Search for the object: Box of ice cream**
+
+   - The box of ice cream is **not visible** in the image.
+
+3. **Suggested search locations:**
+
+   - Inside the refrigerator located on the left side.
+   - Inside the freezer section if the refrigerator has one, possibly at the top.
+   - In any potential freezer drawers if there are other unseen options.
+
+   **Probability of success** in one of these locations: **75%**
+
+4. **Rectangular search area coordinates (assuming objects to check inside storage space):**
+
+   - (0%, 0%), (30%, 0%), (30%, 50%), (0%, 50%)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern kitchen with industrial-style elements, featuring white cabinets with dark countertops, exposed ceiling beams, a brick accent wall, and a distinctive bright yellow open shelving unit.
+
+**Search Results:**
+The box of ice cream is **not visible** in this kitchen image.
+
+**Suggested Search Locations:**
+Ice cream requires freezer storage, so I should search in areas where a freezer compartment would be located:
+
+**Top 3 Most Likely Places to Search:**
+1. **Freezer compartment of the white refrigerator** (visible on the left side of the image)
+2. **Lower cabinets beneath the countertop** - may contain a separate freezer drawer
+3. **Yellow shelving unit** - though less likely, could contain a small freezer appliance
+
+**Primary Search Area:** The white refrigerator on the left side of the kitchen, as this is the most logical location for frozen items.
+
+**Search Coordinates:** (5, 15), (25, 15), (25, 85), (5, 85)
+
+**Probability of Success:** 85% - Ice cream would almost certainly be in the freezer compartment of the refrigerator, which appears to be the white appliance on the left side of the kitchen.
+
+
+Qwen 2.5
+-----------------------------------------
+### Room Identification
+The room in the picture is a **kitchen**.
+
+### Object Search
+- **Not Found**: The object "box of ice cream" is not visible in the image.
+- **Search Area**: Based on the context of a kitchen, common places to find a box of ice cream would be on a kitchen counter, in a cabinet, or in the refrigerator. Since there are no visible countertops, cabinets, or refrigerators with clear boxes inside, the most likely areas to search are the visible cabinets to the right of the sink.
+
+### Search Timing and Success Probability
+The object is not found.
+**Search Area**: (25, 70), (50, 70), (75, 70), (100, 70)
+
+**Top 3 most likely places to search:**
+1. Cabinets to the right of the sink (70% chance)
+2. Refrigerator (20% chance, if it is available)
+3. Countertops in the visible area (10% chance, given no visible countertops)
+
+If the object is found: its location will be reported using the same approximate percentage coordinates format. If not, the search area suggests where to look.

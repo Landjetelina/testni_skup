@@ -1,0 +1,60 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description:**
+   - **Object (Right Image):** A blue book titled "SEO Book for Beginners."
+   - **Room (Left Image):** A home office with a desk, laptop, chair, wall art, and a few decorative items.
+
+2. **Search for the Object:**
+   - **The book is not visible** on the desk or surrounding areas.
+   - **Suggested Search Place & Coordinates:** The book might be in one of the desk drawers.
+   - **Coordinates of Search Area (for drawers):** (30, 0), (70, 0), (70, 20), (30, 20).
+
+3. **Top 3 Most Likely Places to Search:**
+   - Inside the desk drawers.
+   - On a nearby bookshelf if available.
+   - On the desk, perhaps underneath papers or other items.
+   - **Probability of Success:** 85% that it may be found at least one location.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:**
+The right image shows a blue book titled "SEO book for beginners" with orange and white text.
+
+**Room Description:**
+The left image shows a home office/study room with a white desk, beige chair, laptop, decorative wall art, and various office supplies.
+
+**Search Result:**
+The blue SEO book is **not visible** in the office space. While there are some books visible under the desk (near the chair legs), they appear to be different books and the blue SEO book is not among the clearly visible items on the desk surface, shelves, or other open areas.
+
+**Suggested Search Areas:**
+Based on this being an office/study room, the book would most likely be found in storage areas not currently visible:
+
+**Top 3 Most Likely Locations:**
+1. **Inside desk drawers** - the white desk appears to have drawers that could contain books
+2. **On bookshelves or storage areas** - there may be bookshelves outside the camera's view
+3. **In storage containers or bins** - possibly in organizational storage typical for office spaces
+
+**Search Area Coordinates:**
+Desk drawer area: (15, 15), (85, 15), (85, 45), (15, 45)
+
+**Probability of Success:** 75% - Very likely to be found in one of these typical book storage locations in an office setting.
+
+
+Qwen 2.5
+-----------------------------------------
+Left image: This is a home office with a desk, chair, laptop, and various decorative items such as pictures on the wall, a small mirror, and a lamp.
+Right image: The object to search for is a blue book titled "Ahrefs SEO Book for Beginners."
+
+Search result: In the left image, **the object (Ahrefs SEO Book for Beginners)** is **not visible**. Based on the room context and surroundings, it could be located in the following places with estimated success probabilities:
+
+1. **Bottom drawer of the desk (50%)**: This drawer is often used for storing items like books, notebooks, or other supplies in a home office. It could be situated under the desk.
+2. **Bookends next to the desk (25%)**: There’s a stack of books next to the desk, and these might contain the desired book.
+3. **On the floor next to the desk (25%)**: If the book was accidentally dropped, it might have been placed near the desk.
+
+Search area coordinates:
+- Top-left corner: (20, 75)
+- Top-right corner: (55, 90)
+- Bottom-right corner: (25, 90)
+- Bottom-left corner: (20, 70)

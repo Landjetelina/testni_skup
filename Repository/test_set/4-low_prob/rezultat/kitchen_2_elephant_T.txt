@@ -1,0 +1,67 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - Commercial kitchen with stainless steel appliances and counters, white tiled walls, and a large ventilation hood.
+
+2. **Object Search:**
+   - The large, live, gray African elephant is **not visible** in the image. This is an unrealistic object to find in a commercial kitchen due to its size and the nature of the space.
+
+3. **Suggested Search Areas:**
+   - Given the impracticality of an elephant being in this setting, it would not logically fit or be hidden here. However, if searching for smaller objects, consider these areas:
+     1. Inside large storage units or walk-in coolers, if present.
+     2. Near open space towards the center not covered by countertops.
+     3. Any entryways outside the visible area.
+
+4. **Coordinates of Search Area:**
+   - Not applicable for this scenario as the elephant is unlikely to be missed if present.
+
+5. **Probability of Finding the Object in Suggested Areas:**
+   - **0%** due to the impracticality of an elephant fitting in or entering this setting without being immediately visible.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description:
+This is a commercial kitchen featuring stainless steel appliances, equipment, and work surfaces. It has white subway tile backsplash, dark tile flooring, a large ventilation hood, and professional cooking equipment including stovetops and preparation areas.
+
+## Object Search - Large, Live, Gray, African Elephant:
+
+**Object is NOT visible** in the image.
+
+This is an unrealistic search request - a large, live, gray African elephant cannot physically fit in any indoor kitchen space, especially a commercial kitchen of this size. Adult African elephants are massive animals (weighing 4,000-14,000 pounds and standing 8-13 feet tall) that require outdoor habitats and cannot survive in enclosed commercial spaces designed for food preparation.
+
+## Most Likely Search Areas (hypothetically):
+Given the impossibility of the object fitting in this space, but following the format requested:
+
+1. **Behind the central work island** - largest open floor area
+2. **In the corner areas** - where maximum space might be available  
+3. **Near the entrance/exit areas** - though not visible in this view
+
+**Search area coordinates:** (10, 5), (90, 5), (90, 35), (10, 35)
+
+**Probability of finding the object:** 0% - This object cannot realistically exist in this environment.
+
+
+Qwen 2.5
+-----------------------------------------
+The input describes a large, live, gray, African elephant in an enclosed space, likely a room (a kitchen, specifically a commercial kitchen). However, in the provided image, there is no elephant present. 
+
+### Step 1: Describe the room
+The room appears to be **a commercial kitchen, likely used for food preparation and cooking**. The kitchen features stainless steel counters, ventilation hoods, a cooker, and standard commercial kitchen appliances.
+
+### Step 2: Search for the African elephant
+The **African elephant** is not visibly in the image. Possible locations within the kitchen where the elephant **should realistically be (magic excepted)**, given context clues but clearly given advice against unrealistic expectations:
+
+- **On the counter or stove area (0%, 40% - 30%, 70%)**.
+  - **Search possibility percentage: 20%**
+- **Within cabinets (10%, 20% - 80%, 60%)**.
+  - **Search possibility percentage: 15%**
+- **Under floors or storage rooms (25%, 0% - 75%, 50%)**.
+  - **Search possibility percentage: 10%**
+
+### Step 3: Provide the search location and probability percentages
+The top 3 most likely places to search include:
+- **Counter area**: (0%, 40% - 30%, 70%), **20% success chance of finding a hidden elephant.**
+- **Cabinets under rise-down areas country home, saving Lị "[0% - 80%, 50%]** (Search percentage: **15%**).
+- **Hiding no doors into Modal inside the house first**, if any're (0%, 60% - 30%, 50%), Possible cork percentage **10%** suggestion.

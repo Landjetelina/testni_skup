@@ -1,0 +1,63 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description**:
+   - Right Image: A yellow rubber duck.
+   - Left Image: A professional-grade stainless steel kitchen.
+
+2. **Search**:
+   - The yellow rubber duck is **not visible** in the kitchen image.
+
+3. **Suggestions**:
+   - **Likely Places to Search**:
+     1. Inside cupboards or drawers.
+     2. On countertops that are not fully visible.
+     3. Near the sink area where small items might be placed.
+   
+   - **Search Area Coordinates**: 
+     - (10, 10), (40, 10), (40, 40), (10, 40) for drawers and cupboards.
+   
+   - **Probability of Success**: 60% that the duck might be found in one of these locations. Rubber ducks are not typical kitchen items, so it may have been placed in an unexpected location.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A yellow rubber duck with an orange beak - a classic bath toy.
+
+**Room Description:** A commercial/professional kitchen with stainless steel appliances, cabinets, countertops, and a central prep island. Features include a range hood, stovetop, and various cooking equipment.
+
+**Search Result:** The rubber duck is **not visible** in this commercial kitchen.
+
+**Reasoning:** A rubber duck in a commercial kitchen would be highly unrealistic and inappropriate, as this appears to be a professional food preparation environment where toys would violate health and safety regulations. Rubber ducks belong in bathrooms/bathtubs, not commercial kitchens.
+
+**However, if hypothetically searching for this object in this space, the most likely locations would be:**
+
+1. **Inside cabinet drawers or storage areas** - where miscellaneous items might be temporarily stored
+2. **Behind equipment on counters** - where small objects could be accidentally placed
+3. **In the sink area** - the only location with water access similar to its normal environment
+
+**Search area coordinates for general storage/hidden areas:**
+(15, 25), (85, 25), (85, 75), (15, 75)
+
+**Probability of finding the rubber duck in at least one of these locations: 5%** - extremely low due to the inappropriate context of a toy in a commercial kitchen environment.
+
+
+Qwen 2.5
+-----------------------------------------
+**Object in the right image:** A large, yellow rubber duck.
+
+**Room in the left image:** A modern, industrial-style kitchen with stainless steel appliances, marble countertops, and a range of cooking utensils and ingredients.
+
+**Search for the rubber duck:** The rubber duck is not visible in the left image. Given the context of a kitchen, here are the top 3 most likely places to search:
+
+1. **Under the sink area**, where rubber duck toys might be stored occasionally.
+2. **In a cabinet or drawer near the sink**, where it could have been used during a cleaning or decoration session.
+3. **On the marble countertop**, close to the range or near the kitchen table, as it might have been placed temporarily during cooking or as a playful decoration.
+
+**Suggested search coordinates (approximate, rounded to closest 5%):**
+- Top left: (25, 30)
+- Top right: (25, 50)
+- Bottom left: (50, 30)
+- Bottom right: (50, 50)
+
+**Probability of Finding the Rubber Duck:** 20%

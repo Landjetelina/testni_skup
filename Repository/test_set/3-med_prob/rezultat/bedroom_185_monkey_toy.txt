@@ -1,0 +1,68 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description:**
+   - **Object on the right:** A sock monkey toy.
+   - **Room on the left:** A modern bedroom with a bed, wall-mounted TV, and decorative shelving.
+
+2. **Search:**
+   - The sock monkey toy is not visible in the room image.
+
+3. **Suggested Search Areas:**
+   - Likely places to search:
+     1. On the bed, under the pillow or blanket.
+     2. On the seating area beside the TV.
+     3. Inside or on top of the cupboards.
+   - Probability of finding the toy in these locations: 75%.
+
+4. **Search Area Coordinates:**
+   - Assume search area for potential hiding:
+     - (10, 10), (25, 10), (25, 40), (10, 40) for the bed area.
+     - (40, 20), (55, 20), (55, 35), (40, 35) for the seating area.
+     - (65, 70), (80, 70), (80, 85), (65, 85) for cupboards.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:** A brown sock monkey plush toy with a red and white striped hat, red mouth, button eyes, and cream-colored hands and feet.
+
+**Room identification:** A modern bedroom with a bed, gray sofa, wall-mounted TV, decorative patterned wall panel, and beige curtains.
+
+**Search result:** The sock monkey is **not visible** in the bedroom.
+
+**Suggested search locations:**
+Since this is a plush toy that would typically be found in sleeping areas or personal spaces, I suggest searching:
+
+1. **On or under the bed** - plush toys are commonly kept on beds for comfort or may fall between the mattress and wall
+2. **Storage areas/closet** - toys are often stored in closets or drawers when not in use  
+3. **Behind/under the sofa** - the gray sofa could conceal the toy if it fell behind or underneath
+
+**Search area coordinates:** The bed area where the toy is most likely to be found:
+20:53 22.7.2025.
+
+**Probability of success:** 75% - The sock monkey is likely to be found in at least one of these locations, particularly on or around the bed area, as plush toys are commonly kept in bedrooms for comfort.
+
+
+Qwen 2.5
+-----------------------------------------
+**Left Image Description:** A modern bedroom with a bed, a touch-screen TV mounted on the wall, and a daybed beneath a decorative panel. The room also has a shelving unit with books and other items.
+
+**Right Image Description:** A Sock Monkey plush toy.
+
+**Search for Sock Monkey plush toy in the left image:**
+
+- **Objective:** The room seems to have a playful and cozy atmosphere, which might involve plush toys but they typically are not built-in fixtures or positioned at wallpapers.
+
+- **Search Results:** The object, Sock Monkey plush toy, is **not visible** in the given Asian designed bedroom. The most probable places to find this plush toy would be:
+
+1. **On or near the bed:** This is a cozy and common place to place decorative items.
+2. **In the daybed area:** If the toy is available, it would likely be in this area if it is a child-specific space.
+3. **In the shelving unit on top shelf or in a box under the shelf:** This is a probable spot for storage of plush toys.
+
+- **Coordinates for a rectangular search area:**
+  - **(0, 0):** Bottom-left corner.
+  - **(50, 60):** Bottom-right corner.
+  - **(20, 100):** Top-right corner.
+  - **(70, 100):** Top-left corner.
+
+- **Probability of success:** Approximately 50%. The toy could be present, but it may require checking both the mentioned locations, as it is not visible yet.

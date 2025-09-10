@@ -1,0 +1,72 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The image shows a modern living room. It features a large L-shaped sofa, a coffee table with candles, a TV mounted on a wall, and various decorative items.
+
+2. **Box of Ice Cream Search:**
+   - The box of ice cream is **not visible** in the image.
+
+3. **Suggested Search Areas:**
+   - Given the context of a living room, the box of ice cream is unlikely to be found here. If it were misplaced:
+     - Check in the kitchen if it's nearby, likely in the freezer.
+     - Near the coffee table if someone was eating it while watching TV.
+     - Inside or on top of any storage units in the room.
+
+4. **Suggested Search Rectangle in Room:**
+   - (20, 20), (80, 20), (80, 80), (20, 80)
+
+5. **Probability and Locations:**
+   - Probability of finding it in these locations: **60%**
+
+Top 3 most likely places to search based on the room:
+1. Kitchen freezer or refrigerator.
+2. Coffee table or around the seating area.
+3. Storage cabinets in or near the living room.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description
+This is a modern living room with a minimalist Scandinavian design. It features a large gray sectional sofa, white coffee table, white entertainment center with wall-mounted TV, white paneled walls, dark wood flooring, and contemporary lighting.
+
+## Object Search: Box of Ice Cream
+
+The box of ice cream is **not visible** in this living room image.
+
+This is an unrealistic object to find in a living room context, as ice cream requires frozen storage and would typically be kept in a kitchen freezer, not in a living space where it would melt.
+
+## Most Likely Search Locations
+Since ice cream must be kept frozen, the top 3 most likely places to search would be:
+
+1. **Kitchen freezer** (main freezer compartment)
+2. **Kitchen freezer** (freezer drawer if bottom-freezer refrigerator)  
+3. **Separate chest freezer** (if present in home)
+
+**Probability of finding the ice cream in at least one of these locations: 85%**
+
+**Search area coordinates** (representing the general area where a kitchen might be located, likely adjacent to this living room):
+(0, 0), (40, 0), (40, 100), (0, 100)
+
+
+Qwen 2.5
+-----------------------------------------
+### Room Identification
+The room is a living room.
+
+### Search for the Object (Box of Ice Cream)
+- **Search Result**: Not found.
+- **Predicted Locations**:
+  1. On the coffee table (25, 50), likely as someone might place a box of ice cream there.
+  2. Near the entertainment unit (10, 50), in drawers or the bottom shelf.
+  3. Sudden changes in light levels often noticeable, perhaps hiding a box in darker areas.
+
+- **Confidence & Search Rectangles**:
+  - Coffee table search area: (25, 50), (75, 50), (75, 100), (25, 100).
+  - Entertainment unit search area: (10, 50), (10, 80), (40, 50), (40, 80).
+  - Likely hiding areas search area: (30, 30), (70, 30), (70, 90), (30, 90).
+
+- **No hallucinations** - Not plausible to find anything unrealistic in the living room.
+
+### Probability of Finding at Least One Location
+**33%**

@@ -1,0 +1,53 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description**: This image depicts a modern kitchen. It features a white cabinet with a sink and an oven, a black countertop, a refrigerator, and a yellow shelf with various kitchen items. There are also hanging lights and a large window with plants on the sill.
+
+2. **Search for Object**:
+    - The white keyboard is **not visible** in the image.
+    - Suggestion: Based on the context of a kitchen, a keyboard might not typically be found here, but it could possibly be located inside drawers or on the countertop if there's space and it’s primarily used for a kitchenette entertainment system.
+    - **Search Area Coordinates**: The most probable area to search could be around the countertop or drawers. Therefore, coordinates for that search area would be approximately: (5, 0), (45, 0), (45, 35), (5, 35).
+
+3. **Top 3 Most Likely Places to Search**:
+   - Inside the drawers or cabinets in the kitchen unit (probability of containing any unusual item is low since it's a kitchen, estimated 10%).
+   - On the countertop, if temporarily placed there.
+   - On top of the refrigerator if used occasionally in the kitchen.
+
+Overall likelihood of finding a keyboard in this kitchen setting is approximately 10%.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern kitchen with an industrial-style design featuring exposed ceiling beams, white brick walls, dark countertops, white lower cabinets, and a distinctive yellow tall storage cabinet.
+
+**Search Results for White Keyboard:**
+The white keyboard is **not visible** in this kitchen image.
+
+**Reasoning and Suggested Search Areas:**
+A white keyboard would be unusual but not unrealistic in a modern kitchen, as many people use laptops or tablets for recipes, shopping lists, or entertainment while cooking. However, since no keyboard is visible on the countertops, dining areas, or open shelving, it would likely be stored away.
+
+**Top 3 Most Likely Search Locations:**
+1. **Inside the yellow storage cabinet drawers/compartments** - Modern storage often includes tech organization spaces
+2. **Inside the white lower kitchen cabinets** - Common storage for non-cooking items
+3. **In the blue shelving unit on the left wall** - Appears to have storage compartments that could house electronics
+
+**Probability of Success:** 60%
+
+**Rectangular Search Area Coordinates:**
+Primary search zone covering the storage areas: (15, 20), (85, 20), (85, 75), (15, 75)
+
+
+Qwen 2.5
+-----------------------------------------
+**Room Description:**
+The room appears to be a modern kitchen. It features a large window on the right with potted plants on the windowsill, a yellow shelving unit with glass doors, white cabinets, a sink with a black countertop, and a stove and oven below. The kitchen is functional and clean, with hanging pendant lights above the counter and a framed black and white artwork hanging on the wall.
+
+**Search for Object:**
+The object in question is a white keyboard. A white keyboard is not visible in the provided image of the kitchen. However, considering the context of the room, one would often find a keyboard in a computer setup, which is not present here. Below are the top 3 most likely places to search:
+
+1. **Top of the shelving unit**: If there is a small desk or a setup in the yellow shelving unit, it is possible the keyboard is placed there. (Search Area: (80, 70), (85, 70), (90%, 75%), (95%, 60%))
+2. **White cabinets under the counter**: If there is a small desk attached to the cabinets, a conventional setup for a keyboard might be there. (Search Area: (25, 65), (35, 65), (35, 70), (25, 70))
+3. **Window sill area**: If there is a small shelf or a stand near the window, there's a chance the keyboard could be on it. (Search Area: (10%, 80), (25%, 80), (25%, 85), (10%, 85))
+
+**Object Not Found Probability:** 90%

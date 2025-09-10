@@ -1,0 +1,28 @@
+You are given an input with one image:
+- It shows an enclosed space, typically a room (e.g., living room, kitchen, office).
+
+You are also given a textual description of the object to search for:
+-glasses
+
+Your task:
+1. Identify and clearly describe:
+   - the room in the left image (e.g., "living room, a modern kitchen").
+
+2. Search the left image for the object.
+    - If you find it: say exactly where it is and report its approximate position in the image using (x, y) coordinates. Coordinates assume that (0%,0%) is the bottom-left corner and (100%, 100%) is the top-right corner of the left picture; x% increases to the right and y% increases upward. Round coordinates to the nearest 5% e.g. (25, 70).
+   - If it is **not visible**, say so clearly and **suggest where to search for it**, based on the room context and surroundings.
+   - Use realistic reasoning (e.g., "remotes are often in drawers or next to the TV").
+   - **Do not** suggest locations that are clearly visible and free of obstruction if the object is not there (e.g., do not suggest "on the table" if all items on the table are clearly visible and the object is **not** among them).
+   - Also always provide the coordinates of a rectangular search area (if object is not found), as **four** points representing the rectangle's corners in exactly this format: (x1, y1), (x2, y2), (x3, y3), (x4, y4). Use the same coordinate system (0,0 = bottom-left, 100,100 = top-right).
+
+3. Avoid hallucinations.
+   - If the object is unrealistic in context (e.g., "an elephant in a living room"), say so.
+
+4. If the object is **not found**, list the **top 3 most likely places** to search **in the room**, based on the scene.
+   - Assign **just one** probability (in %) of success that an object will be found at least one location.
+
+General rules:
+- Be objective, concise, and specific.
+- Speak only the truth.
+- Don’t make assumptions beyond what’s visible.
+

@@ -1,0 +1,53 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in the right image**: A brown sock monkey plush toy with a red hat.
+   
+   **Room in the left image**: A modern kitchen with white cabinets, a stainless steel oven, microwave, and dishwasher. It has a window and a tiled backsplash.
+
+2. **Search for the Object**:
+   - The sock monkey plush toy is **not visible** in the kitchen image.
+   
+   **Suggested Search Locations**:
+   - Inside cabinets or drawers.
+   - On the kitchen counter behind other objects.
+   - On top of the fridge or inside the pantry.
+
+   **Rectangular Search Area Coordinates**:
+   - (0, 0), (100, 0), (100, 100), (0, 100).
+
+   **Top 3 Most Likely Places with Probability**:
+   - Cabinets or drawers (50%)
+   - Behind items on the counter (30%)
+   - Inside the pantry (20%)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+/
+
+
+Qwen 2.5
+-----------------------------------------
+1. The object in the right image is a "sock monkey stuffed toy".
+2. The room in the left image is a "modern kitchen".
+
+3. Searching the left image for the sock monkey stuffed toy:
+
+- **Search result**: The sock monkey stuffed toy is not visible in the left image.
+- **Suggested search locations**: 
+  - **Possible location 1**: The countertop under or around the sink, as it is a common place for stuffed toys in a kitchen.
+  - **Possible location 2**: Inside one of the cabinets (this would require searching inside, which is not possible in an image).
+  - **Possible location 3**: The area near the microwave, as this is a high-traffic and child-friendly area. If the toy is there, it would be likely left near a food prep area or snack space.
+
+- **Coordinates for a rectangular search area** (if searching for possible locations): 
+  - Top-left corner: (30, 20)
+  - Bottom-right corner: (35, 10)
+  - Area (30, 20), (35, 10) - Inside a corner cabinet
+
+No hallucinations detected, and the object is not found in the images. The best assumption is that the sock monkey stuffed toy might be in the cabinet, but searching is not possible in the image provided.
+
+**Consistency level of finding the item in top search places**: 
+- Location 1: 50%
+- Location 2: 30%
+- Location 3: 20%

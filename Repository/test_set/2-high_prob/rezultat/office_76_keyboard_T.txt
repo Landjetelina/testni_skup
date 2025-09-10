@@ -1,0 +1,53 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The room is a modern office with multiple workstations, ergonomic chairs, and a bright, open layout. It features contemporary lighting fixtures and ample natural light from large windows.
+
+2. **Search for White Keyboard:**
+   - The white keyboard is not visible in the image.
+
+3. **Suggested Search Locations and Probability:**
+   - **Under the desks** at the workstations as keyboards are usually placed there.
+   - **Inside desk drawers** of the workstations where computer accessories may be stored.
+   - **On shelves** or within any storage compartments visible in the background where office supplies are kept.
+
+   - **Probability of success:** 70%
+
+4. **Search Area for the Object:**
+   - Coordinates for possible search area:
+     - (10, 10), (30, 10), (30, 40), (10, 40)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern open-plan office space with contemporary design features, including exposed black ceiling with decorative white circular lighting elements, workstation cubicles, and glass-walled meeting rooms.
+
+**Search Results for White Keyboard:**
+The white keyboard is **not visible** in this image. While I can see computer monitors at the workstations in the foreground, the keyboards at those workstations are not clearly visible due to the viewing angle and distance.
+
+**Most Likely Search Locations:**
+1. **At the workstation desks** - Keyboards would typically be positioned in front of the monitors on the desk surfaces
+2. **In desk drawers** - Some office setups store keyboards in pull-out keyboard trays or drawers
+3. **On the glass-enclosed office desks** - The background meeting rooms/offices may have workstations with keyboards
+
+**Suggested Search Area:**
+The workstation area in the foreground where monitors are visible: (5, 15), (45, 15), (45, 35), (5, 35)
+
+**Probability of Success:** 75% - Keyboards are essential office equipment and would almost certainly be present at these computer workstations, just not visible from this viewing angle.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The room in the left image is an office.
+
+2. The white keyboard is not visible in the image.
+
+3. Given the office setting, the most likely places to search for a white keyboard, if it exists, are:
+   - On or near a desk, which is likely in the same area where the computer monitor is found. (Probability of success: 70%)
+   - In a file or under a desk, especially under the desk due to the clutter often found there. (Probability of success: 30%)
+   - In a break area or common space if there are no personal desks available. (Probability of success: 5%)
+
+4. Search area coordinates:
+   - (20, 30), (80, 30), (80, 70), (20, 70) - This rectangle encompasses the lower portion of the image, which is likely to contain desks.

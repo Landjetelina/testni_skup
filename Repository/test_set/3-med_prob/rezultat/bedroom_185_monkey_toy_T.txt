@@ -1,0 +1,65 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - This is a bedroom. It features a bed with an orange cover, a chaise-like seating area, built-in shelving, a patterned wall panel, a wall-mounted TV, and curtains over the window.
+
+2. **Search for the Stuffed Monkey Toy:**
+   - The stuffed monkey toy is not visible in the image.
+
+3. **Suggested Search Locations & Probability:**
+   - The toy might be in one of these places within the room:
+     1. On the seating area or behind cushions (if any).
+     2. Inside the cabinet or shelving area.
+     3. Around the bed, possibly visible if you move blankets or pillows.
+
+   - Probability of finding the toy in at least one of these locations: 70%.
+
+4. **Coordinates of Suggested Search Area:**
+   - Focus on areas around the shelving and seating area: (20, 40), (80, 40), (80, 90), (20, 90).
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description
+This is a modern bedroom with contemporary design elements, featuring a bed with white linens and an orange throw, a gray upholstered bench/seating area, a wall-mounted TV, decorative patterned wall panels, and floor-to-ceiling curtains.
+
+## Object Search: Stuffed Monkey Toy
+
+**Not Found** - I do not see a stuffed monkey toy visible anywhere in this bedroom image.
+
+## Suggested Search Areas
+
+Based on the bedroom context, here are the **top 3 most likely places** to search for a stuffed monkey toy:
+
+1. **On or around the bed** - stuffed toys are commonly kept on beds or nightstands
+   Search area: (0, 0), (70, 0), (70, 45), (0, 45)
+
+2. **Behind/under the gray bench seating** - toys often get placed on furniture or fall behind cushions
+   Search area: (0, 15), (45, 15), (45, 35), (0, 35)
+
+3. **On the shelf above the TV** - the visible shelf area may have items not clearly visible from this angle
+   Search area: (0, 70), (70, 70), (70, 85), (0, 85)
+
+**Probability of finding the stuffed monkey toy in at least one of these locations: 65%**
+
+The object is realistic for this context, as stuffed toys are commonly found in bedrooms.
+
+
+Qwen 2.5
+-----------------------------------------
+**Room Description**:
+The room appears to be a hotel-style guest room, likely with a bed in the foreground, a wardrobe or small storage unit against the wall with a television mounted above it, and an armchair positioned near the storage unit.
+
+**Search for Stuffed Monkey Toy**:
+The stuffed monkey toy is not visible in the picture.
+
+**Search Suggestions**:
+- **Top 1**: Check the bed (top monitors the bed crowds).
+- **Top 2**: Look under the armchair near the storage unit.
+- **Top 3**: Check the shelves above the wardrobe and around the television for any hidden or partially obscured spots.
+
+Rectangle search areas:
+- **Top 1): Bed Search**: (10, 60), (50, 60), (50, 70), (10, 70)
+- **Top 2): Armchair Search**: (25, 65), (30, 65), (30, 70), (25, 70)
+- **Top 3): Shelf Search**: (45, 25), (45, 30), (55, 30), (55, 25)

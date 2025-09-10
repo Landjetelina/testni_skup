@@ -1,0 +1,59 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description:**
+   - **Object in the Right Image:** A pink container of cookie dough.
+   - **Room in the Left Image:** A modern living room with a sectional sofa, coffee table, wall-mounted TV, and minimal decor.
+
+2. **Search for the Object:**
+   - The pink container of cookie dough is **not visible** in the living room image.
+   - **Suggested Search Locations:**
+     1. On the coffee table where snacks might be placed.
+     2. Inside storage units or cabinets near the TV area.
+     3. On or near the sofa where someone might place food while watching TV.
+   
+     **Probability of Success:** There is a 70% chance of finding it in one of these suggested locations.
+
+   - **Search Area Coordinates (if not found):** (20, 30), (80, 30), (80, 60), (20, 60).
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+- Right image: A pink ice cream container/tub with "Delicious" branding, containing what appears to be cookie dough or vanilla ice cream with chocolate chips and colorful sprinkles.
+- Left image: A modern living room with gray sectional sofa, white coffee table, TV entertainment unit, and contemporary decor.
+
+**Search results:**
+The ice cream container is **not visible** in the living room image. This makes sense as ice cream should be stored in a freezer, not left out in a living room where it would melt.
+
+**Suggested search locations:**
+Based on the room context, I suggest searching in the kitchen area, which appears to be connected to this living space (visible in the background left side of the image). Ice cream containers belong in freezers.
+
+**Search area coordinates:**
+Kitchen/dining area in background: (0, 40), (25, 40), (25, 80), (0, 80)
+
+**Top 3 most likely places to search:**
+1. Kitchen freezer (most likely location for ice cream storage)
+2. Kitchen counter (if recently taken out of freezer)
+3. Dining table in kitchen area (if being served)
+
+**Probability of success:** 95% - Ice cream containers are almost always found in kitchen areas, specifically in freezers or temporarily on counters/tables when being served.
+
+
+Qwen 2.5
+-----------------------------------------
+**Identified object in the right image:**		a table with cookie dough, inside a pink container
+
+**Identified room in the left image:**	a modern living room with a sofa, coffee table, and a TV stand.
+
+**Searching the left image for the object:**
+
+The table with cookie dough is not visible in the left image. It appears that the object is placed in an indoor setting irrelevant to the living room, as there is no evidence of a table or a container similar to the one in the right image.
+
+**Suggested search areas in the left image (if the object was not found):**
+
+1. **In the side table or end table next to the sofa.** (75, 45)
+2. **On the coffee table, where other decorative items are often placed.** (55, 40)
+3. **In the TV stand, as it is a common place for items that belong in the living room.** (20, 30)
+
+**Probability of success in finding the object: 30%**

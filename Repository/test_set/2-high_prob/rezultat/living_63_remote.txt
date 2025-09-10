@@ -1,0 +1,67 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in the right image:** A black TV remote with colorful buttons.
+   **Room in the left image:** A modern living room with a gray sectional sofa, coffee table, wall-mounted television, and stylish decor.
+
+2. **Search in the left image for the object:**
+   - The object (black TV remote) is not visible in the room.
+
+   - **Suggested location for search:**
+     - On the coffee table, typically within easy reach while seated.
+     - Between or under the couch cushions, a common spot for remotes to fall.
+     - Near the TV stand or entertainment unit, especially if other remotes are placed there.
+
+   - **Search area coordinates:** 
+     - Since the coffee table is a likely place, explore the area surrounding the table for careful inspection:
+       - (35%, 35%), (65%, 35%), (65%, 55%), (35%, 55%).
+
+3. **Top 3 most likely places to search:** 
+   - On or around the coffee table.
+   - Between the sofa cushions.
+   - Near the TV stand.
+
+   **Probability of success:** 85%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+- Right image: A black TV remote control with blue circular buttons and various control buttons including colored buttons at the bottom
+- Left image: A modern living room with grey sectional sofa, white coffee table, white TV console with wall-mounted TV, and contemporary decor
+
+**Search results:**
+The TV remote is **not visible** in the living room image. All surfaces that are clearly visible (coffee table, TV console top, sofa cushions) do not show the remote control.
+
+**Suggested search areas:**
+Based on typical remote storage and the room layout, I suggest searching:
+
+**Top 3 most likely locations:**
+1. **TV console drawers/compartments** - The white TV console appears to have storage compartments that could contain the remote
+2. **Between or under sofa cushions** - Remotes commonly slip between cushions during use
+3. **Behind/beside sofa cushions** - Area where the remote might have fallen or been placed
+
+**Search area coordinates:** (5%, 15%), (95%, 15%), (95%, 75%), (5%, 75%)
+This covers the main furniture areas where a remote would typically be stored or misplaced.
+
+**Probability of success:** 75% - High likelihood the remote is in one of these common locations given this is an active living room with a TV setup.
+
+Qwen 2.5
+-----------------------------------------
+**Object in Right Image:** A black TV remote control.
+
+**Room in Left Image:** A modern living room.
+
+**Search Results:**  
+The TV remote control was not found in the living room image. Considering the common placement of TV remotes and their frequent location near the TV or on the coffee table, these areas should be checked first. 
+
+**Top 3 Most Likely Places to Search:**
+1.** On the coffee table**: Approximately (40%, 50%).
+2.** On the couch cushion**: (60%, 40%).
+3.** In the media cabinet below the TV**: (20%, 60%).
+
+**Search Area for Not Found Object (if object is not found):**
+- (0%, 0%), (20%, 0%), (20%, 100%), (0%, 100%).
+
+**Realistic Reasoning:**
+- Remotes are often kept within easy reach, hence the coffee table, couch cushions, and cupboard below the TV are plausible locations.

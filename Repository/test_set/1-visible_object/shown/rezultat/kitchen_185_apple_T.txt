@@ -1,0 +1,40 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The image shows a modern kitchen with wooden cabinets, a stove, a large countertop, and pendant lights.
+
+2. **Search for Object:**
+   - The red apple is visible in the fruit bowl on the countertop.
+   - Approximate Position: (25, 60).
+
+3. **Object Found: No need for further search suggestions.**
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern kitchen with light wood cabinetry, white countertops, and contemporary pendant lighting. The kitchen features a central island, built-in appliances, and a clean, minimalist design.
+
+**Search Results for Red Apple:**
+I can see a fruit bowl on the kitchen island that contains various fruits including what appears to be red apples among other colorful fruits (green, yellow, and red items). The red apple is visible in the fruit bowl located at approximately **(15%, 35%)**.
+
+The fruit bowl is positioned on the left side of the white kitchen island and contains a mix of fruits where red apples are clearly visible among the collection.
+
+
+Qwen 2.5
+-----------------------------------------
+**1. Description of the room:**
+The room is a kitchen with light wooden cabinets, a modern design, and a fruit bowl on the kitchen island containing various fruits including apples.
+
+**2. Search for red apple:**
+- **Not visible.**
+- **Top 3 probable locations:**
+  1. Inside the fruit bowl on the kitchen island. Given that the bowl contains various fruits, the probability of the red apple being inside is 70%.
+  2. In one of the open drawers under the countertop. The search area would be (60, 85), (70, 85), (70, 100), (60, 100) for a possible drawer-like search area.
+  3. In one of the other kitchen cabinets. The search area would be (30, 25), (30, 50), (45, 50), (45, 25) for a possible cabinet search area.
+
+**3. Coordinate rectangles for probabilistic search areas:**
+- Fruit bowl search area: (60, 30), (70, 30), (70, 40), (60, 40)
+- Pewter basin search area: (40, 25), (50, 25), (50, 45), (40, 45)
+- Variety of searches in drawers and cabinets: (60, 30), (60, 50), (40, 50), (40, 30) for drawer-like search areas and 60, 30, 60, 50 for cabinet-like searches.

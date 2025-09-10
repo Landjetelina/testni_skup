@@ -1,0 +1,37 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The room appears to be a cozy living room or a small studio apartment with a bed, couch, colorful bedding, a lamp, and a keyboard.
+
+2. **Search for Acoustic Guitar:**
+   - The acoustic guitar is clearly visible. It is leaning against the white couch.
+   - Approximate position: (20%, 20%).
+
+3. **Recommendation:**
+   - The guitar is found, so no need to recommend further search areas.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a bedroom with a bohemian/artistic style, featuring a bed with colorful patterned bedding, white furniture, string lights, and musical instruments.
+
+**Object Search Result:**
+I **found** the acoustic guitar. It is located on the floor near the center-left area of the room, positioned between the white chair/couch and the bed. The guitar appears to be a classical acoustic guitar with a light wood finish.
+
+**Approximate position:** (35%, 25%)
+
+The guitar is clearly visible and accessible, lying flat on what appears to be a light-colored rug or floor area.
+
+
+Qwen 2.5
+-----------------------------------------
+The room in the left image appears to be a small, cozy living room.
+
+The acoustic guitar is visible in the left corner of the image, leaning against the white sofa. Its position is at approximately (35, 35), with the neck of the guitar pointing towards the right side of the image. The rectangular search area for the guitar is defined by the coordinates: (30, 40), (40, 20), (50, 50), (60, 60).
+
+The top 3 most likely places to search for the object are:
+1. Behind the white sofa in the left corner of the room. - 70%
+2. Under the table on which the keyboard is placed.
+3. In the storage space under the bed.

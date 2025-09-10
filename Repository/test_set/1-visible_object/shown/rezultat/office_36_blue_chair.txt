@@ -1,0 +1,62 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in the right image:** A blue armchair.
+
+   **Room in the left image:** A modern living room featuring large windows, a red sofa, two blue armchairs, a patterned rug, a wooden shelving unit, and a couple of round coffee tables.
+
+2. **Search for the object:**
+
+   - **Object visibility:** The blue armchair in the right image is **not visible** among the furnishings in the left image. The armchairs in the living room have a different design.
+   
+   - **Suggested search area:** Since the object is not visible, search near similar seating areas or rooms adjacent to the living room.
+   
+   - **Rectangular search area coordinates:** Given that it’s not visible, a realistic search could focus on areas typically hosting additional chairs, such as corners of the living room or near other seating arrangements:
+     - (60, 0), (100, 0), (100, 30), (60, 30)
+
+3. **Top 3 most likely places to search in the room:**
+
+   - Near other seating areas in the living room.
+   - In adjacent rooms like a study or secondary living room.
+   - Stored in a larger hallway or closet area.
+   
+   **Probability of success:** 70% (depending on the house layout and storage)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A light blue/grayish-blue upholstered armchair with wooden legs and modern design.
+
+**Room Description:** A modern living room with contemporary design featuring a red/pink sofa, blue armchairs, white round coffee table, built-in shelving unit, large windows with ocean view, and industrial-style ceiling.
+
+**Search Result:** I can see two blue armchairs in the living room, but they appear to be a darker blue color compared to the lighter blue/grayish-blue chair shown in the right image. The chair from the right image is **not visible** in this room.
+
+**Suggested Search Locations:**
+Since this appears to be a modern apartment/home, the light blue chair could be located in:
+
+1. **Adjacent rooms** (bedroom, dining area, or home office) - probability of finding it in one of these areas
+2. **Behind the built-in shelving unit** - there appears to be space that's not fully visible
+3. **Near the entrance area** by the wooden door - partially obscured area
+
+**Search Area Coordinates:** The area near the entrance/door where the chair might be partially hidden:
+Rectangle corners: (75, 0), (95, 0), (95, 60), (75, 60)
+
+**Overall Probability:** 70% chance the chair will be found in one of the suggested locations within this home.
+
+
+Qwen 2.5
+-----------------------------------------
+### Input Information:
+- Left: living room
+- Right: blue armchair
+
+### Search Result:
+The image of the blue armchair in the right image does not appear in the left image. There is no blue armchair in the living room. 
+
+### Search Areas:
+1. On the tables: Given there's a coffee table (x = 50%, y = 40%).
+2. On the sofa or in the corners: The couch (x = 10%, y = 20%) and the smaller chairs (x = 60%, y = 40%) might be places where a small chair similar in design might be placed.
+3. Along the bookshelves: The bookshelves might have small furniture-like items (x = 40%, y = 30%).
+
+### Search Probability:
+- It is possible that a similar item might be found in one of the listed areas with a success rate of 30%.

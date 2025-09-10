@@ -1,0 +1,78 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The image shows a professional kitchen with stainless steel appliances and countertops. It has a clean, modern, and industrial look.
+
+2. **Search for the Object:**
+   - **Steel, sharp, kitchen knife**: The knife is not immediately visible in the image.
+
+   - **Suggested Search Locations**:
+     - Drawers under the countertops.
+     - Containers or holders on the countertops.
+     - Attached magnetic strips for knives.
+
+   - **Coordinates of Suggested Search Area**: 
+     - (10, 0), (40, 0), (40, 40), (10, 40)
+
+3. **Probability and Places to Search**:
+   - **Likelihood of Finding the Knife**: 85%
+   - **Top 3 Likely Places**:
+     1. Drawers under the countertop.
+     2. Containers or holders on the countertops.
+     3. In shelves or racks above the stainless steel surfaces.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description
+This is a commercial kitchen with professional-grade stainless steel equipment, including commercial cooking stations, overhead ventilation, upper cabinets, and a central prep island.
+
+## Object Search: Steel, Sharp, Kitchen Knife
+
+The kitchen knife is **not visible** in the image. While this is a professional kitchen where knives would be expected, I cannot see any knives clearly displayed on the visible surfaces.
+
+## Search Recommendations
+
+Based on the commercial kitchen context, the knife should be searched for in areas where kitchen tools are typically stored for food safety and organization purposes:
+
+**Top 3 Most Likely Locations:**
+1. **Inside the upper stainless steel cabinets** - Professional kitchens store knives in secure cabinet storage
+2. **In drawers within the lower cabinet sections** - Standard location for organized knife storage
+3. **In knife blocks or magnetic strips in non-visible cabinet areas** - Common professional storage methods
+
+**Search Area Coordinates:** (0, 20), (100, 20), (100, 60), (0, 60)
+This covers the cabinet and storage areas where knives would most likely be kept.
+
+**Probability of Success:** 85% - Kitchen knives are essential tools in any commercial kitchen and are almost certainly present, just stored in proper locations for safety and hygiene compliance.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The room in the left image is a commercial kitchen setting with stainless steel counters and appliances.
+
+2. Search for the object: A steel, sharp, kitchen knife.
+
+   - **Result:** The image does not contain any visible knives, sharp or otherwise, in a kitchen setting like this one. However, considering the context, knives could be present but not within the immediate field of vision.
+
+   - **Search Area Suggestions:**
+     - Knife blocks
+     - Sink area (top drawers or base cabinets under the sink)
+     - For a larger kitchen, the knife block could be on the worktops or next to/behind the stove area.
+
+   - **Products Likely Visible in the Room:**
+     - Table with prepped vegetables
+     - Cutting boards
+     - Bowls and utensils related to food preparation
+
+   - **Coordinates for Search Area (0%, 0% is bottom-left, 100%, 100% is top-right):**
+     - (50, 70), (30, 35), (80, 30), (75, 90)
+
+   - **Probability of object being found:** 50%
+   - **Top 3 most likely places:**
+     1. Knife block (likely on the counter or hanging on the wall)
+     2. Underneath the sink (drawer or cabinet)
+     3. On the floor (knife bins or cleaner pools occasionally happen in commercial kitchens)
+
+   - **Avoiding Unrealistic Suggestions:**
+     -("an elephant in a living room")

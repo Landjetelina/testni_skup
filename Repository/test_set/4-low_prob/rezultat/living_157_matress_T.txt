@@ -1,0 +1,58 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The image shows a modern kitchen with a wooden sink unit, a faucet, and a small decorative plant.
+
+2. **Search for Object:**
+   - **Large, blue, air mattress:** The object is not visible in the image.
+
+3. **Top 3 Most Likely Places to Search:**
+   - **Pantry or storage closet:** Kitchens often have storage areas where larger items might be stored. 
+   - **Under the sink or in a cabinet:** If the space allows, it could be folded and stored here.
+   - **Utility room or laundry area:** Nearby but separate spaces often hold items like air mattresses.
+   
+   - **Probability of success:** 40%
+
+4. **Rectangular Search Area Coordinates:**
+   - (0, 0), (100, 0), (100, 100), (0, 100)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description
+This is a modern kitchen featuring a compact, minimalist design with light wood cabinetry, a dark countertop with integrated sink, and clean white walls.
+
+## Object Search Result
+The large, blue air mattress is **not visible** in this kitchen image.
+
+## Search Recommendations
+Since this is a small, modern kitchen with minimal storage visible, an air mattress would be unrealistic to store in this space due to size constraints. However, if searching within this room context, the most likely locations would be:
+
+**Top 3 most likely places to search:**
+1. Inside the lower kitchen cabinets (though unlikely due to size constraints)
+2. Behind or beside the kitchen unit (not visible in current view)
+3. In an adjacent room or storage area (outside current view)
+
+**Probability of finding the air mattress in this kitchen: 5%**
+
+**Primary search area coordinates:** (0, 0), (100, 0), (100, 40), (0, 40)
+This covers the lower cabinet area and floor space around the kitchen unit where such an item might theoretically be stored, though it's highly unlikely given the object size and kitchen context.
+
+**Note:** A large air mattress would be unrealistic to find in this compact kitchen setting, as it would typically be stored in bedrooms, closets, or dedicated storage areas.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The space in the left image appears to be a small kitchenette.
+
+2. After closely examining the image, I have not found a large, blue, air mattress. The image shows a kitchenette with cabinets, a countertop, and a sink, but no air mattress.
+
+3. Therefore, the most likely places to search, based on the context and surroundings, where the large, blue, air mattress might be:
+
+   - Top 1: **Under a bed or desk-layered areas in the kitchenette**: 40%
+   - Top 2: **In the room's corners in storage spaces like Cupboards, Layers, Shelving, Drawers, etc.**: 30%
+   - Top 3: **On the floor beneath elevated surfaces**: 20%
+
+Here are approximate coordinates for the search area (0%,0% = bottom-left corner, 100%,100% = top-right corner):
+- Coordinates of search area: (0,45), (50,80)

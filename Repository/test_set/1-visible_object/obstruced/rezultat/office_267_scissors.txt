@@ -1,0 +1,70 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in the right image**: A pair of blue-handled scissors.
+
+   **Room in the left image**: A home office or study room with a desk, chair, computer, shelves with storage boxes, a printer, and various office supplies.
+
+2. **Search for the object**:
+
+   The blue-handled scissors are not visibly present in the left image.
+
+   **Suggested search areas in the room**:
+   - Inside the drawers (#9) beneath the desk.
+   - In the storage boxes (#10) on the shelves.
+   - Next to or behind the printer (#14).
+
+   **Coordinates for suggested search area (drawer #9)**:
+   - Bottom-left: (35, 5)
+   - Bottom-right: (45, 5)
+   - Top-right: (45, 15)
+   - Top-left: (35, 15)
+
+3. **Top 3 most likely places**:
+   1. Inside the drawers (#9).
+   2. In the storage boxes (#10) on the shelves.
+   3. Next to or behind the printer (#14).
+
+   **Probability of finding the object**: 70%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** Blue-handled scissors with steel blades
+
+**Room Description:** A home office/study room with an L-shaped desk setup, computer monitor, office chair, and extensive storage shelving with organized binders and boxes
+
+**Search Result:** The scissors are **not visible** in the office space.
+
+**Suggested Search Locations:**
+
+Since scissors are commonly used office tools, the most likely places to find them in this organized office would be:
+
+1. **Inside the desk drawers** - Most probable location as scissors are typically stored in desk drawers for easy access	
+2. **In the storage containers/organizers** on the desk surface - There appear to be some small containers that could hold office supplies
+3. **Among the organized storage boxes** on the shelves - Given the highly organized nature of this office, they may be stored in a designated supplies container
+
+**Search Area Coordinates:** The desk area and immediate storage: (25, 15), (75, 15), (75, 65), (25, 65)
+
+**Probability of Success:** 75% - This is a well-organized office space where scissors would logically be stored in designated areas for office supplies.
+
+
+Qwen 2.5
+-----------------------------------------
+Object in the right image: "a pair of blue scissors with gray blades."
+Room in the left image: "a multi-purpose home office space."
+
+Search results:
+- Scissors are visible in the right image itself; no need to search the left image for them.
+- The approximate coordinates for the scissors in the right image are: (50, 20).
+
+Since the scissors are already found in the provided image on the right, no further search area is needed for this specific object in the left image. However, if the request was to search for scissors in a home office space, a suggested search area based on realistic reasoning is the desk area, where most scissors might be found. 
+
+Search area for scissors (if there were none): (0, 0 - 100, 20) for the most likely places to find scissors.
+
+Top 3 most likely places to find scissors in a home office space:
+1. Desk area (70%)
+2. Desk drawers (20%)
+3. Nearby work area (10%)
+
+These probabilities reflect where scissors are typically located in a home office setting and provide a realistic assessment of where to look if the object is not specifically visible in the current image.

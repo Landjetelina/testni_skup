@@ -1,0 +1,63 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The room is a modern kitchen with light-colored cabinetry, stainless steel appliances including a microwave and stove, and a mosaic tile backsplash. It has a wooden floor and windows bringing in natural light.
+
+2. **Object Search:**
+   - The stuffed monkey toy is **not visible** in the image.
+
+3. **Suggestions for Search:**
+   - Suggested search area: Inside cabinets or drawers where small toys might be stored.
+   - Rectangle coordinates for suggested search area: (0, 0), (20, 0), (20, 60), (0, 60).
+
+4. **Top 3 Likely Places to Search:**
+   - Inside the lower cabinets and drawers.
+   - On the countertops, especially behind larger objects.
+   - Near or behind the larger appliances.
+   - **Probability of success:** 60%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description
+This is a modern kitchen with white cabinets, stainless steel appliances, a mosaic tile backsplash, and hardwood flooring. The kitchen features a window above the sink area and appears to be well-lit and clean.
+
+## Object Search: Stuffed Monkey Toy
+The stuffed monkey toy is **not visible** in this kitchen image.
+
+## Suggested Search Areas
+Based on the kitchen context, I suggest searching in areas that are not clearly visible but could contain stored items:
+
+**Top 3 most likely places to search:**
+1. **Inside the cabinets/drawers** - Kitchen cabinets and drawers often contain miscellaneous household items including children's toys
+2. **Behind the peninsula/island area** - There may be storage or floor space not visible from this angle
+3. **In pantry or storage areas** - If there are pantry spaces or storage rooms adjacent to this kitchen
+
+**Rectangular search area coordinates for cabinet storage:**
+(15, 40), (85, 40), (85, 85), (15, 85)
+
+**Probability of finding the stuffed monkey toy in at least one of these locations: 25%**
+
+Note: A stuffed monkey toy in a kitchen is somewhat unusual, as toys are typically stored in bedrooms, playrooms, or living areas rather than cooking spaces.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The room in the left image is a kitchen.
+
+2. The stuffed monkey toy is not visible in the image. Considering the context and surroundings, the toy is most likely not present in the kitchen. Here are the top 3 most likely places to search for it, based on common life scenarios:
+
+   - Top 1: Children's room
+     - Probability: 50%
+     - Search area: (0, 30), (100, 35), (100, 50), (0, 50)
+   
+   - Top 2: Living room
+     - Probability: 30%
+     - Search area: (0, 25), (50, 25), (50, 50), (0, 50)
+   
+   - Top 3: Den/Playroom
+     - Probability: 20%
+     - Search area: (50, 35), (70, 35), (70, 50), (50, 50)
+
+3. An elephant in a living room would be unrealistic.

@@ -1,0 +1,71 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description:**
+   - **Object on the Right:** A blue inflatable mattress.
+   - **Room on the Left:** A small kitchen area with a sink, light wooden cabinets, and a backsplash.
+
+2. **Search the Left Image for the Object:**
+   - The blue inflatable mattress is **not visible** in the kitchen area.
+
+3. **Suggestions:**
+   - Mattresses are typically found in bedrooms or storage areas, not in kitchens. Check nearby rooms such as a bedroom or a storage closet if present.
+
+4. **Most Likely Places to Search (Not Seen):**
+   - Storage closet or utility room.
+   - Bedroom.
+   - Garage or basement, if available.
+
+   **Probability of Success:** 70% 
+
+5. **Rectangular Search Area for Where to Look in the Room:**
+   - As the left image is a kitchen and no mattress is present, no specific search area in this room is applicable. If searching for a mattress, consider locations like closets or bedrooms instead.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+- Right image: A blue inflatable air mattress with a quilted/ribbed surface pattern
+- Left image: A modern kitchen area with light wood cabinets, black countertop, pendant lamp, and white walls
+
+**Search results:**
+The blue inflatable air mattress is **not visible** in the kitchen area.
+
+**Analysis:**
+An inflatable air mattress in a kitchen is contextually unusual but not impossible. However, kitchens are not typical storage or usage locations for air mattresses.
+
+**Suggested search locations:**
+Since the air mattress is not visible in this kitchen area, I suggest searching in:
+
+1. **Storage cabinets** (lower cabinets visible in the image) - air mattresses are often stored in cabinets when deflated
+2. **Behind or beside the kitchen unit** - areas not visible in the current view
+3. **Adjacent rooms** - bedrooms, closets, or storage areas would be more typical locations
+
+**Search area coordinates:**
+Lower cabinet area: (15, 5), (85, 5), (85, 45), (15, 45)
+
+**Probability of finding the air mattress in at least one of these kitchen locations: 25%**
+
+The low probability reflects that kitchens are uncommon locations for air mattresses, though they could be temporarily stored in the cabinets.
+
+
+Qwen 2.5
+-----------------------------------------
+The object in the right image is "a blue inflatable mattress."
+
+The room in the left image is a "modern kitchen or sink area."
+
+Upon searching the left image for the blue inflatable mattress, I do not find it. 
+
+**Reasoning:** 
+Based on the context of the room (sink and kitchen cabinets) and the activity one would typically perform in such a setting, it's less likely that an air mattress would be in this part of the room.
+
+**Locations to search:**
+1. Under the sink/include drawers if any, as air mattresses can sometimes be stored out of the way.
+2. Below the kitchen cabinets, as these might contain less used items.
+3. Near or under the counter if there is any extra storage space.
+
+**Probability of finding the object in the top 3 locations:**
+- Under the sink (25%)
+- Below the cabinets (15%)
+- Near or under the counter (15%)

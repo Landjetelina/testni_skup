@@ -1,0 +1,64 @@
+Gpt - 4o
+-----------------------------------------
+1. The room in the image is a modern kitchen.
+
+2. The yellow unpeeled banana is not visible in the image.
+
+   Suggested places to search in the kitchen:
+
+   - On the countertops near the sink or stove
+   - Inside the cabinets
+   - In the fruit bowl if visible but obstructed
+
+   Coordinates for the search area on the countertop next to the stove:
+   - (60, 0), (100, 0), (100, 40), (60, 40)
+
+   Probability of success in a more thorough check: 70%.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern kitchen with white/cream colored cabinets, stainless steel appliances, white countertops, and a mosaic tile backsplash. The kitchen features windows on the left side, hardwood flooring, and appears to be recently renovated.
+
+**Object Search - Yellow Unpeeled Banana:**
+I have carefully examined all visible surfaces in the kitchen, including the countertops, windowsill, and any open areas. The yellow unpeeled banana is **not visible** in this image.
+
+**Search Suggestions:**
+Based on the kitchen context, I recommend searching in areas that are not fully visible or accessible in this view. Do not search the clearly visible countertops as they are unobstructed and the banana is not there.
+
+**Top 3 Most Likely Search Locations:**
+1. **Inside the refrigerator** (not visible in image) - bananas are commonly stored here
+2. **Kitchen pantry or cabinet interiors** - food items are typically stored in enclosed spaces
+3. **Counter areas outside the camera's view** - there may be additional counter space or a kitchen island not shown
+
+**Search Area Coordinates:**
+For the most promising search area (around where a pantry or additional storage might be located):
+(70, 15), (90, 15), (90, 85), (70, 85)
+
+**Probability of Success:** 75% - Bananas are common kitchen items and are likely stored in typical food storage areas not visible in this image.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The room in the left image is a kitchen.
+
+2. I do not see a yellow unpeeled banana in the image. However, considering the surrounding context and typical locations for such an item in a kitchen:
+
+   - **If it's not found**, there's a high chance:
+     - On a kitchen counter near the sink or stove (since bananas are often left after washing)
+     - In a fruit basket (usually on the counter near the sink or fruit bowl)
+     - In an open cabinet or drawer around the kitchen counter
+
+     Top 3 most likely places to search for a yellow unpeeled banana:
+     1. On the counter near the sink or stove (65% success probability)
+     2. In an open cabinet or drawer around the kitchen counter (30% success probability)
+     3. In a fruit basket (5% success probability)
+
+3. The coordinates of the rectangular search area are:
+   ```
+   (20, 20), (25, 50), (75, 50), (70, 20)
+   ```
+
+Note: The rectangular area covers a common search space that includes the area near the sink and stove, where bananas are often washed or placed for later use.

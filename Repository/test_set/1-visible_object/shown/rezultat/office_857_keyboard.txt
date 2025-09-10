@@ -1,0 +1,79 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in Right Image**: A white computer keyboard.
+   
+   **Room in Left Image**: A cluttered home office or study.
+
+2. **Search for the Object**:
+   - The white computer keyboard is **not visible** in the room image.
+
+   - **Suggested Search Locations**:
+     - Underneath or next to the paperwork and books on the desk.
+     - Inside any drawers or cabinets within the desk area.
+     - Near the monitors or behind other electronic equipment.
+
+   - **Rectangular Search Area**: (15, 0), (85, 0), (85, 45), (15, 45).
+
+3. **Top 3 Most Likely Places to Search**:
+   - On the desk amidst paper stacks and other items.
+   - In any desk drawers or cabinets.
+   - Near the computers or electronic devices.
+
+   **Probability of Success**: 80%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A white/silver wireless computer keyboard with white keys and gray text labels.
+
+**Room Description:** A home office or study room with a cluttered desk containing dual monitors, books, office supplies, and a cat. There's a bicycle wheel visible in the background.
+
+**Search Result:** The object is **not visible** in the left image. I can see there is already a different keyboard (appears to be black/dark colored) on the desk near the monitors, but the white wireless keyboard from the right image is not present.
+
+**Suggested Search Locations:**
+Since this is a home office with limited visible storage and the desk is quite cluttered, the wireless keyboard could be:
+
+1. **In a desk drawer** - Most likely location for storing an extra keyboard
+2. **On a shelf or storage area** - Behind books or other items that are blocking the view
+3. **In the area behind/under the desk** - Could have been stored away temporarily
+
+**Search Area Coordinates:** 
+Focusing on the desk area where keyboards would typically be stored:
+(15, 10), (85, 10), (85, 55), (15, 55)
+
+**Probability of Success:** 75% - Given this is a tech workspace, it's quite likely the wireless keyboard is stored nearby in a drawer or shelf area.
+
+
+Qwen 2.5
+-----------------------------------------
+### Left Image Description:
+The left image shows a room that appears to be a home office or study. It contains a desk with a cluttered surface, stacks of books and papers, a computer setup with two monitors, and various items such as a cat, a headset, a computer keyboard, a water bottle, and other miscellaneous objects. Shelving in the background holds more books and possibly decorative items. A bicycle wheel is visible in the upper right corner of the room.
+
+### Right Image Description:
+The right image is a clear photograph of a white Apple wireless keyboard.
+
+### Search Results:
+- **Object Identified in the Right Image:** A white Apple wireless keyboard.
+- **Room in the Left Image:** Home office or study.
+- **Search for the Object:**
+  - The keyboard is visible in the photograph on the right and is being described as a separate object, so it's not present in the left image. It appears in the top row, second from the left, in the keyboard.
+
+Since the object (Apple wireless keyboard) is not visible in the left image, we can attempt to locate it if it were to be within the room:
+- **Suggested Search Area:** Keyboard remotes (often located on the desk) or next to a TV remote.
+- **Most Likely Place to Find the Object:**
+  1. Desk suraface (if it is on a desk or users frequently use the keyboard there).
+  2. Near the computer monitor (if used while looking at the screen).
+  3. Next to the TV remote(s) (if near or within reach of the computer area).
+
+- **Probability of Finding the Object:**
+  Approx. 70% chance that the object is in a position where it is commonly found (e.g., on a desk or near the main computer entry point).
+
+### Search Area:
+The search area coordinates for the left image where the keyboard might hypothetically be:
+- X1: 20%
+- Y1: 70%
+- X2: 30%
+- Y2: 80%
+
+These coordinates specify the search area in the top-right portion of the desk in the left image where the keyboard is commonly kept for easy access.

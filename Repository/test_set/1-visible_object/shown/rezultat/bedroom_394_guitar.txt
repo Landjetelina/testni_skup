@@ -1,0 +1,68 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object Description:** A yellow acoustic guitar.
+
+2. **Room Description:** A cozy bedroom with a sofa, bed, decorative lighting, and a keyboard.
+
+3. **Search for Object:**
+
+   - The yellow acoustic guitar is not visible in the room.
+
+4. **Suggested Search Locations and Probability:**
+
+   - Likely hiding spots in the room include:
+     - **Near the bed** (possibly under it or against the wall) 
+     - **Behind or next to the sofa**
+     - **Behind the keyboard or in that corner**
+
+   - **Probability of Success:** 70%
+
+5. **Rectangular Search Area Coordinates:** 
+   - (x1, y1) = (5, 5)
+   - (x2, y2) = (95, 5)
+   - (x3, y3) = (95, 70)
+   - (x4, y4) = (5, 70)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A yellow acoustic guitar with a dark pickguard and light-colored neck.
+
+**Room Description:** A bohemian-style bedroom/living space with colorful mandala textiles, string lights, musical instruments, a keyboard, and eclectic decor.
+
+**Search Result:** The object is **found** in the left image. The yellow acoustic guitar is located on the right side of the room, leaning against or positioned near the purple/blue wall. It's sitting on or next to what appears to be a patterned rug.
+
+**Position:** Approximately (85%, 25%)
+
+The guitar is clearly visible and matches the object in the right image - same yellow color, dark pickguard, and acoustic guitar design.
+
+
+Qwen 2.5
+-----------------------------------------
+### Left Image Description:
+The left image depicts a cozy, modern bedroom with various musical equipment and furniture. It features:
+- A light blue wall with string lights.
+- A bed covered with a colorful crochet blanket.
+- A small rug on the tiled floor.
+- A guitar leaning against the sofa on the left.
+- An electronic keyboard in the foreground.
+- A lamp, a cactus, and a small bed in the background.
+- A white sofa and a floor lamp.
+
+### Right Image Description:
+The right image shows a yellow acoustic guitar against a blue wall. A chair and another guitar are partially visible in the scene, but the focus is on the yellow acoustic guitar.
+
+### Search:
+I have searched the left image for a yellow acoustic guitar similar to the one in the right image.
+- **Result:** Not found.
+
+### Suggestion:
+Given the similarity of the guitars, searching near the position where the guitar on the left is leaning against the sofa might be a good strategy. Additionally, checking the floor and any nearby areas to the sofa due to the guitar's proximity in the scene.
+- **Top 3 most likely places to search in the room:**
+  1. Near the guitar on the left (25,40) → (40,40)
+  2. Floor within 10% of the position described above (30,30) → (40,40)
+  3. Close to the wall but near the shelf area towards the back (50,35) → (60,40)
+
+### Probability:
+The success probability of finding the guitar in the top 3 locations is estimated at 60%.

@@ -1,0 +1,57 @@
+Qwen 2.5
+-----------------------------------------
+**Object in the right image:** A ripe banana
+
+**Room in the left image:** A modern kitchen
+
+**Search for the banana in the left image:**
+
+- **WHERE FOUND:** Not visible. Suggested search areas:
+  - Top 3 most likely places to search in the room for the banana, based on kitchen contexts:
+    1. **Kitchen countertop or island** (30%)
+    2. **Dish drawer or cabinet** (25%)
+    3. **Sink附近 area** (20%)
+
+**Search Area Coordinates (for a proposed search rectangle, if applicable):** The described areas would be upper/middle sections of the kitchen counter island, upper cabinets, and the countertop area near the sink respectively.
+
+
+
+Gpt - 4o
+-----------------------------------------
+**Object Description:** A yellow banana with brown spots
+
+**Room Description:** A modern kitchen with white cabinets, stainless steel appliances, mosaic tile backsplash, and white countertops
+
+**Search Result:** The banana is **not visible** in the kitchen image.
+
+**Suggested Search Areas:**
+Based on typical kitchen storage patterns for fresh fruit like bananas, I suggest searching:
+
+1. **Refrigerator** - Fresh fruit is commonly stored here for preservation
+   - Search area coordinates: (4.5, 8.0), (5.5, 8.0), (5.5, 3.5), (4.5, 3.5)
+
+2. **Kitchen cabinets/pantry** - Particularly upper or lower cabinets where food items are stored
+   - Search area coordinates: (6.5, 6.5), (9.5, 6.5), (9.5, 9.5), (6.5, 9.5)
+
+3. **Kitchen drawers** - Some people store produce in specialized fruit drawers
+   - Search area coordinates: (6.5, 3.0), (9.5, 3.0), (9.5, 6.0), (6.5, 6.0)
+
+**Probability of Success:** 75% - Bananas are common kitchen items and would likely be stored in one of these typical food storage locations.
+
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object in the right image: A banana.**
+
+**Room in the left image: A modern kitchen.**
+
+**Search results:**
+The banana is not visible in the left image of the kitchen. However, based on the context, it's reasonable to suggest that it could be most likely to be found in the following locations:
+
+1. **On the Countertop**: 40%
+2. **In the Refrigerator**: 30%
+3. **In a Cabinet**: 20%
+
+The corners of the search area (if the banana is not found, the area to search) are (0, 0), (0, 5), (5, 5), (5, 0).

@@ -1,0 +1,59 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The image shows a stylish and cozy living room with a modern touch. It features patterned wallpaper, framed pictures, a comfortable sofa with a throw pillow, a white bookshelf, and a decorative rug. There is also a guitar and an amplifier visible, suggesting a personal or creative space.
+
+2. **Search for the Object:**
+   - The black mechanical keyboard is not visible in this image.
+
+   - **Suggested Search Locations:**
+     - **On the desk/surface near the leopard print chair (35%, 15%), (45%, 15%), (45%, 25%), (35%, 25%)**: Keyboards are often found near computers or desks. The visible surface on the left might be obscured.
+     - **On the bookshelf (60%, 30%), (80%, 30%), (80%, 45%), (60%, 45%)**: Although this shelf seems primarily for decoration and storage, it may hold hidden items.
+     - **Near the amplifier area (80%, 20%), (90%, 20%), (90%, 50%), (80%, 50%)**: Keyboards could be near music equipment, possibly tucked away or out of immediate sight.
+
+   - **Top 3 Likely Locations:**
+     1. Desk area near the leopard print chair
+     2. Bookshelf
+     3. Near the amplifier or guitar area
+
+   - **Probability of Success: 60%** based on the visible scene and typical storage for a keyboard.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern home office or study room with white walls, featuring a polka dot accent wall, a world map artwork, and musical equipment including guitars and an amplifier.
+
+**Search Results:**
+The black mechanical keyboard is **not visible** in this image.
+
+I can see a laptop on the white desk/table on the left side, but no separate mechanical keyboard is visible on any of the clearly visible surfaces (desk, white storage unit, floor).
+
+**Search Area Recommendation:**
+The keyboard is most likely near the computer setup area where the laptop is located, possibly:
+
+**Top 3 Most Likely Locations:**
+1. **In a desk drawer** - The white desk may have drawers that aren't visible from this angle
+2. **Behind or under the laptop** - Could be stored beneath the current laptop setup
+3. **In one of the white storage bins** - The cube storage unit has multiple fabric bins that could contain the keyboard
+
+**Search Area Coordinates:** (0, 0), (35, 0), (35, 50), (0, 50)
+
+**Probability of Success:** 75%
+
+The keyboard would realistically be stored near the computer workstation area for easy access when needed.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The room is a living room.
+
+2. **Not visible**.
+
+3. **Possible locations:**
+   - Below the shelf units, under the bookshelf sections.
+   - On the guitar stand.
+   - On top of the black amplifier.
+
+**Probability of success w low scacne (%):** 70

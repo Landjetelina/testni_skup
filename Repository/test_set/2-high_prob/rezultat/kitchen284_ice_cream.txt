@@ -1,0 +1,66 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description:**
+
+   - **Object in the right image:** A pink container of dough labeled "DOUGH LICIOUS" with cookie dough inside.
+   - **Room in the left image:** A modern kitchen with white cabinets, a sink, oven, black countertop, plants, shelves, and a yellow shelving unit.
+
+2. **Search for the Object:**
+
+   The object (pink container of dough) is not visible in the kitchen image.
+
+   **Suggested Places to Search:**
+   
+   - Inside the refrigerator.
+   - Inside the cabinets.
+   - On the countertops (currently visible, but not present).
+
+   **Search Area Coordinates:** 
+   - Refrigerator: (10, 10), (40, 10), (40, 50), (10, 50)
+
+3. **Top Likely Places to Search:**
+
+   - Refrigerator
+   - Inside the cabinets
+   - On the shelves
+
+   **Probability of Success:** 70%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A pink and white ice cream container/tub with cookies inside, appears to be a "DoughLicious" branded container with chocolate chip cookies.
+
+**Room Description:** A modern kitchen with white cabinets, black countertops, yellow shelving unit, pendant lighting, and wooden flooring.
+
+**Search Result:** The ice cream container is **not visible** in the kitchen image.
+
+**Suggested Search Location:** Since this is an ice cream container with cookies, it would most likely be stored in the refrigerator or freezer to keep the contents fresh and at proper temperature. The refrigerator is not clearly visible in this kitchen view.
+
+**Search Area Coordinates:** The most logical search area would be where the refrigerator is typically located in kitchens - likely in the area to the left that's partially visible or behind the camera view.
+Rectangle corners: (65, 25), (85, 25), (85, 85), (65, 85)
+
+**Top 3 Most Likely Search Locations:**
+1. Inside the refrigerator/freezer (not visible in image)
+2. Inside the yellow shelving unit's closed compartments
+3. Inside kitchen cabinets or pantry storage
+
+**Probability of Success:** 85% - Ice cream products are almost always stored in refrigerated areas, making the refrigerator/freezer the most probable location.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The object in the right image is "a container of cookie dough."
+2. The room in the left image is "a kitchen."
+
+3. The container of cookie dough is not visible in the left image.
+
+Searching the left image for the object, I suggest the following locations based on the context and room configuration:
+
+- **Kitchen countertop**: A container like this is often kept on a countertop in a kitchen. The probability of finding it here is **70%**.
+- **Back of the refrigerator**: Remains a plausible location if the container was recently placed there or if small containers like this are stored there.
+- **On the shelf**: The upper shelf of the yellow cabinet may be a spot, but it's less likely as it’s not a common spot for cookie dough.
+
+Use the following coordinates for the search area (in decimal format):
+- (15, 85), (20, 90), (5, 60), (10, 70)

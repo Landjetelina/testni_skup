@@ -1,0 +1,53 @@
+Gpt - 4o
+-----------------------------------------
+1. Description:
+   - Right Image Object: A red apple.
+   - Left Image Room: A modern kitchen.
+
+2. Object Search:
+   - Object: Red apple.
+   - Visible Location: The apple is in a fruit bowl on the kitchen counter.
+   - Approximate Position: (20, 40).
+
+Since the apple is already visible, no further search is needed.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A red apple with a glossy, speckled skin pattern.
+
+**Room Description:** A modern kitchen with light wood cabinets, white countertops, pendant lighting, and a kitchen island.
+
+**Search Result:** I found the object! There is a red apple visible in a white bowl on the kitchen island, along with other fruits including what appears to be bananas and other colorful fruit.
+
+**Object Location:** The red apple is located at approximately **(15%, 25%)** in the left image.
+
+The apple is clearly visible as part of a fruit arrangement in the white bowl on the kitchen island's white countertop surface.
+
+
+Qwen 2.5
+-----------------------------------------
+**Right Image Object:** A red apple
+
+**Left Image Room:** A modern kitchen
+
+**Search Results:**
+- The red apple is not visible in the left image.
+
+**Suggested Search Areas:**
+1. In the fruit бowl on the kitchen island. 
+   - **Coordinates:** (15, 80)
+
+2. On the countertop near where fruits are usually placed.
+   - **Coordinates:** (30, 65)
+
+3. Inside the refrigerator drawer.
+   - **Coordinates:** (15, 20)
+
+**Top 3 Most Likely Locations:**
+1. Fruit bowl on the kitchen island: 40%
+2. Carryout the refrigerator drawer: 30%
+3. Countertop: 25%
+
+The apple is missing from the visible areas within the kitchen; these are the most logical places to search.

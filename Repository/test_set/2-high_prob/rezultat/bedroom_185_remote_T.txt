@@ -1,0 +1,63 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The image depicts a bedroom featuring a modern design. It includes a bed with an orange cover, a TV mounted on a wall, a decorative pattern on the wall panel, a chaise longue, and a curtain.
+
+2. **Search for the Black TV Remote:**
+   - The black TV remote is not visible in the image.
+
+3. **Suggested Search Locations:**
+   - **Likely places to search:**
+     1. On the chaise longue or under its cushions.
+     2. On the shelf above the TV.
+     3. Near the bedside or under the bed covers.
+   - Probability of finding it in these locations: 70%
+
+4. **Search Area Coordinates:**
+   - (5, 5), (95, 5), (95, 40), (5, 40)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+## Room Description
+This is a modern bedroom with a sophisticated design featuring a wall-mounted TV, built-in shelving, decorative geometric wall panels, a gray upholstered bench/seating area, and a bed with white linens and an orange/coral-colored throw.
+
+## Object Search: Black TV Remote
+
+The black TV remote is **not visible** in the image.
+
+Given the room context, I suggest searching in areas that are not clearly visible or accessible in the current view. The remote is likely stored in:
+
+1. **Inside the built-in shelving unit** above the TV (items on shelves are not clearly distinguishable)
+2. **In a drawer of the bedside furniture** (partially visible but contents not seen)
+3. **On or around the gray bench seating area** (some areas may be obscured from this angle)
+
+**Search area coordinates for the shelving unit above TV:** (15, 70), (85, 70), (85, 85), (15, 85)
+
+## Top 3 Most Likely Search Locations:
+1. **Built-in shelving above the TV** - remotes are commonly stored near entertainment centers
+2. **Bedside table drawers** - convenient storage for frequently used items
+3. **On or between cushions of the gray bench** - remotes often get misplaced on seating furniture
+
+**Probability of finding the remote in at least one of these locations: 75%**
+
+
+Qwen 2.5
+-----------------------------------------
+**Room Description:**
+The image depicts a bedroom. It has a large bed in the foreground with an orange blanket in the background. There is a wardrobe with a built-in TV in the wall, a daybed, and a bed with pillows. The room has a vintage-style design with drapes and decorative wall panels.
+
+**Object Search Results:**
+- **Object Found**: The black TV remote is visible on top of the wardrobe, next to the TV, at coordinates (25, 20).
+
+**Search Area (if object not found):**
+- (0, 20), (100, 20), (100, 100), (0, 100)
+
+**Top 3 Most Likely Places to Search if Object Is Not Found:**
+1. On the daybed (60%),
+2. On the nightstand (40%),
+3. In the drawer of the wardrobe (20%).
+
+**Solution:**
+Black TV remote is found on top of the wardrobe, next to the TV, at coordinates (25, 20).

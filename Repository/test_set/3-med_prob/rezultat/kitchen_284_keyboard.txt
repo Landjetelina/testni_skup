@@ -1,0 +1,61 @@
+Gpt - 4o
+-----------------------------------------
+1. **Description**:
+   - Right Image: A black mechanical keyboard with an orange key.
+   - Left Image: A modern kitchen.
+
+2. **Search for Object**:
+   - The mechanical keyboard is **not visible** in the kitchen.
+
+3. **Suggested Search Locations**:
+   - Likely places to search:
+     1. On the kitchen counter (near the sink or stovetop).
+     2. Inside the cabinets.
+     3. On any small tables or surfaces near the kitchen.
+
+   - **Probability**: 70% chance that the keyboard will be found in one of these locations.
+
+4. **Rectangular Search Area**:
+   - Bottom-left corner: (10, 5)
+   - Bottom-right corner: (90, 5)
+   - Top-right corner: (90, 95)
+   - Top-left corner: (10, 95)
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:** A black mechanical keyboard with dark gray/black keys and orange accent keys on the corners.
+
+**Room Description:** A modern kitchen with white cabinets, dark blue backsplash, yellow open shelving unit, exposed ceiling beams, and a window with plants on the sill.
+
+**Search Result:** The keyboard is **not visible** in this kitchen.
+
+This object is unrealistic in this kitchen context, as keyboards are computer peripherals that don't belong in cooking spaces. However, if searching for it:
+
+**Top 3 Most Likely Search Locations:**
+1. **Yellow shelving unit compartments** - The open shelves might contain miscellaneous items
+2. **Kitchen drawers** - Items are often stored in drawers out of sight
+3. **Counter areas behind/beside appliances** - Areas not clearly visible in the current view
+
+**Search Area Coordinates:** Yellow shelving unit area: (70, 25), (85, 25), (85, 75), (70, 75)
+
+**Probability of Success:** 15% - Very low likelihood due to the inappropriate context of a keyboard in a kitchen setting.
+
+
+Qwen 2.5
+-----------------------------------------
+**Image 1 (Left):** A modern kitchen with white cabinetry, a yellow shelving unit, and various kitchen items.
+**Image 2 (Right):** A black mechanical keyboard with red arrow keys, placed against a white marble surface.
+
+**Search for the keyboard in the left image:**
+The keyboard is **not visible** in the kitchen image. Based on common sense, keyboards are typically placed on desks, tables, or occasionally in cabinets or drawers. Given the context of a kitchen, the most logical places to search for the keyboard could be:
+
+1. **On a kitchen counter (25, 50):** (in a sink edges or triangular surfaces, but not visible).
+2. **Inside the yellow shelving unit (50, 40):** (if there were drawers or cabinets).
+3. **On a kitchen table (75, 25):** (if there's one, but not clearly visible).
+
+The **most likely places** (60%) to find the keyboard are:
+1. **On a kitchen counter or drawer (close to Y1 percentile, X25-X75)**
+2. **In a drawer of the yellow shelving unit (X4X5-5X5)**
+3. **On a table surface (X25-50, Y10-20)**

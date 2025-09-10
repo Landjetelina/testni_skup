@@ -1,0 +1,60 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in the right image:** A metal fork.
+
+   **Room in the left image:** A small modern kitchen area with a sink and cabinets.
+
+2. **Search for the object:** 
+
+   The fork is **not visible** in the kitchen area. 
+
+   **Suggested search locations based on context:**
+   - Inside the drawers or cabinets (coordinates: (3, 1), (7, 1), (7, 4), (3, 4))
+   - Countertop near the sink area, possibly obscured by other items
+   - Utensil holder often found on countertops
+
+   **Top 3 most likely places to search:**
+   1. Inside the drawers or cabinets
+   2. On the countertop near the sink
+   3. Utensil holder if present
+
+   **Probability of success:** Approximately 80%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+- Right image: A black/dark colored dinner fork with four tines
+- Left image: A modern kitchen with a wooden cabinet/island unit featuring a built-in sink and countertop
+
+**Search results:**
+The fork is **not visible** in the kitchen image. All visible surfaces (countertop, sink area) are clearly empty and unobstructed, so the fork is not present in any of the openly visible areas.
+
+**Suggested search locations:**
+Based on kitchen context, the fork is most likely stored in:
+
+1. **Kitchen drawers** - specifically the drawers in the wooden cabinet unit, where cutlery is typically stored
+2. **Inside the cabinet** - in the lower cabinet section of the wooden unit, possibly in a cutlery organizer
+3. **Dish drying area** - potentially in a hidden drying rack or dish storage area not visible in this view
+
+**Search area coordinates:**
+Wooden cabinet unit (most likely location): (1.5, 1.0), (6.0, 1.0), (6.0, 4.5), (1.5, 4.5)
+
+**Probability of success:** 85% - Forks are almost always stored in kitchen drawers or cabinets, and this appears to be the main storage unit in this kitchen.
+
+
+Qwen 2.5
+-----------------------------------------
+1. Object in the right image: "a simple black fork"
+2. Room in the left image: "a minimalist kitchenette or small utility space"
+
+3. Searching the left image for the fork:
+   - **Object Status**: Not visible
+   - **Search Suggestions**: Given the presence of a utility space and the coordination of the item's typical use, focusing on functional areas makes sense. High chances likely exist in drawers, under the sink, or in a trash bin location where utensils might be disposed.
+   - **Object Search Area (x1, y1), (x2, y2), (x3, y3), (x4, y4)**: (2, 5.5), (7, 5.5), (7, 3.5), (2, 3.5)
+
+4. The top 3 most likely places to search:
+   - **Drawing屉**: 25%
+   - **Under the Sink**: 20%
+   - **Trash Bin**: 15%

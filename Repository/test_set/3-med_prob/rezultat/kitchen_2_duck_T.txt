@@ -1,0 +1,60 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description:**
+   - The room is a professional kitchen.
+
+2. **Object Search:**
+   - The yellow rubber duck is not visible in the image.
+
+3. **Suggested Search Locations:**
+   - The object is unrealistic in this context. However, if it might be present:
+     - On the countertops near the sink.  
+     - Inside one of the open cabinets.
+     - Near the stove and cooking ingredients.
+
+4. **Coordinates for Suggested Search Area:**
+   - (10, 60), (50, 60), (50, 90), (10, 90)
+
+5. **Probability of Finding the Object:**
+   - At least one location: 10%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a commercial kitchen with professional-grade stainless steel equipment, including commercial ovens, a large exhaust hood, stainless steel countertops, and white subway tile backsplash.
+
+**Search Results:**
+The yellow rubber duck is **not visible** in this commercial kitchen.
+
+A yellow rubber duck would be highly unrealistic and inappropriate in this professional commercial kitchen environment, as it would violate health and safety regulations for food preparation areas.
+
+**Top 3 Most Likely Search Locations:**
+1. Storage areas or employee break rooms (not visible in this kitchen space)
+2. Cleaning supply storage areas where it might have been brought in accidentally
+3. Employee personal belongings area or locker room
+
+**Probability of finding the object in at least one of these locations:** 15%
+
+**Suggested Search Area:**
+Since this is an inappropriate setting for a rubber duck, I suggest searching areas adjacent to this kitchen that might house personal items or non-food storage.
+
+**Search Rectangle Coordinates:** (0, 0), (100, 0), (100, 100), (0, 100)
+[This encompasses the entire visible area, though finding a rubber duck here would be highly unlikely due to the professional kitchen context]
+
+
+Qwen 2.5
+-----------------------------------------
+The room in the left image is a commercial kitchen.
+
+I have searched the image for the yellow rubber duck and have not found it. 
+
+No coordinates for the duck, rounded to the nearest 5% and a search area of (25, 0), (75, 0), (75, 25), (25, 25).
+
+Avoid hallucinations: There is no yellow rubber duck in the kitchen.
+
+Top 3 most likely places to search:
+1. **Under a sink**: 50%
+2. **In a cabinet**: 30%
+3. **On a counter**: 15%

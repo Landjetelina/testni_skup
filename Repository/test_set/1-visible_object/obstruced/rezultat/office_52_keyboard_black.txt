@@ -1,0 +1,79 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in Right Image:** A black mechanical keyboard with orange accents.
+   
+   **Room in Left Image:** A living room with eclectic decor including patterned wallpaper, a colorful rug, and shelves with storage boxes.
+   
+2. **Search for Object:**
+
+   - **Object Visibility:** The mechanical keyboard is not visible in the room.
+
+   - **Suggested Search Locations:**
+     - On or inside the white shelves (potential hidden space).
+     - Near or inside the desk area where other electronics might be placed.
+     - Inside drawers or storage boxes present in the shelves.
+
+   - **Search Area Coordinates:**
+     - (10, 10), (60, 10), (60, 40), (10, 40)
+
+3. **Top 3 Most Likely Places to Search:**
+   - Shelves and storage boxes.
+   - Desk area.
+   - Near the couch or on smaller side tables.
+
+   **Probability of Success:** 70%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:**
+- Right image: A black mechanical keyboard with red accent keys (appears to be a compact/tenkeyless gaming keyboard)
+- Left image: A modern living room/bedroom with contemporary decor, featuring a black sofa, white storage unit, world map artwork, and musical equipment
+
+**Search results:**
+The black keyboard is **not visible** in the living room image. 
+
+**Suggested search locations:**
+Based on the room context, the keyboard would most likely be found:
+
+1. **Inside the white storage cubbies** - The white shelving unit has several compartments with storage boxes that could contain computer accessories
+2. **Behind or near the laptop area** - There appears to be a laptop visible, and keyboards are typically stored nearby
+3. **In drawers or storage areas not visible** - Computer peripherals are often stored in desk drawers or dedicated storage spaces
+
+**Search area coordinates:**
+White storage unit area: (45, 25), (75, 25), (75, 65), (45, 65)
+
+**Probability of finding the object in at least one suggested location: 70%**
+
+The keyboard is contextually appropriate for this room given the presence of other electronic devices and the modern setup that suggests computer use.
+
+
+Qwen 2.5
+-----------------------------------------
+### Object in the Right Image:
+"A mechanical keyboard with red arrow keys."
+
+### Room in the Left Image:
+"A living room with a modern aesthetic, featuring a sofa, a rug, a shelving unit, and a chandelier."
+
+### Search Results:
+The object (mechanical keyboard with red arrow keys) is not visible in the left image. Properly analyzing the scene and considering potential locations based on the room context, it is unlikely that the keyboard would be in the visible areas. 
+
+**Top 3 Most Likely Places to Search:**
+
+1. **On the Sofa:** Given that the keyboard could be used, it is possible the person might have sat near it. The couch wouldn't obstruct anything in the case.
+
+2. **On the Shelving Unit:** The shelving unit contains books and decorative items. While not certain, the shelf could be checked.
+
+3. **Under the Table**: The rectangular search area can suggest an area under the table or desk.
+
+**Search Area for Mechanical Keyboard (Not Found):**
+
+The search area for a mechanical keyboard is an area suggested as a plausible location:
+- **(35, 5), RGB 248,40,204**
+- **(70, 5), RGB 162,122,95**
+- **(35, 100), RGB 148,114,76**
+- **(70, 100), RGB 194,30,84**
+
+So, the rectangular search area is `(35, 2), (70, 2), (35, 100), (70, 100)` (x1, x2, y1, y2).

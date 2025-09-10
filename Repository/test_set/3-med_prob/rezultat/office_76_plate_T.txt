@@ -1,0 +1,60 @@
+Gpt - 4o
+-----------------------------------------
+1. **Room Description**:
+   - The image shows a modern office space with workstations, chairs, and computers. The design includes open desks and a contemporary lighting arrangement.
+
+2. **Search for Object**:
+   - The white dining plate is **not visible** in the image.
+
+   - Suggested areas to search (rectangle coordinates for the scene): 
+     - Underneath desks and around seating areas for personal items:
+       - (10, 10), (30, 10), (30, 40), (10, 40)
+     - Near shelves and communal areas with potential for storage:
+       - (60, 60), (80, 60), (80, 90), (60, 90)
+
+3. **Top 3 Likely Places**:
+   - **Drawers under office desks**: Plates might be stored for personal use by employees.
+   - **Break room or pantry area**: If present nearby, it likely houses dining ware like plates.
+   - **Cabinets in the office corner**: These might be used for storing communal kitchen items.
+
+   - **Probability of success**: 70%
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Room Description:**
+This is a modern open-plan office space with contemporary design featuring workstations, office chairs, computer monitors, decorative ceiling lighting, and glass-walled meeting areas.
+
+**Object Search Result:**
+The white dining plate is **not visible** in this office environment.
+
+**Context Assessment:**
+A white dining plate in an office setting is somewhat uncommon but not unrealistic, as offices often have break rooms, kitchens, or dining areas where employees eat meals.
+
+**Top 3 Most Likely Search Locations:**
+
+1. **Office kitchen/break room area** (not visible in this image) - likely located beyond the glass-walled areas in the background
+   
+2. **Storage cabinets or cupboards** within the glass-enclosed spaces visible in the background around (75%, 50%)
+   
+3. **Employee desk drawers or personal storage areas** throughout the workstation areas around (35%, 40%)
+
+**Suggested Search Area Coordinates:**
+Focus on the background area with glass-enclosed spaces where a kitchen or break room might be located: (60, 35), (90, 35), (90, 70), (60, 70)
+
+**Probability of Success:** 65% - Office environments typically have designated eating areas or kitchen facilities where dining plates would be stored or used.
+
+
+Qwen 2.5
+-----------------------------------------
+1. This image depicts an office setting with desks, office chairs, monitors, and partitions, but no white dining plate is visible in the room.
+
+2. Not found. Exploring profitable places thoughtfully would involve desks, underneath surfaces where disposables accumulate most regularly or hampers within offices. Let's assume one ""
+
+3. The highest bottom probability (and highest possible since 0/3) specifies:
+   * Figure (in cases like the areas swift):
+   * 120%, 173%
+   
+Given explanations:
+1. **Desk spots under listings till places manage shoulders**

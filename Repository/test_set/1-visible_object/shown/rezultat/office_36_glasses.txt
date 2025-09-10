@@ -1,0 +1,57 @@
+Gpt - 4o
+-----------------------------------------
+1. Description:
+   - Right Image: A pair of round eyeglasses with thin metal frames.
+   - Left Image: A modern living room with a red sofa, two blue chairs, and decorative shelving.
+
+2. Search for the Object:
+   - The eyeglasses are visible on the table in front of the two blue chairs, slightly to the left.
+   - Approximate Position: (40, 20).
+
+3. As the object is found, no further search or suggestions are necessary.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object Description:**
+The right image shows a pair of eyeglasses with thin metal frames and round/oval lenses.
+
+**Room Description:**
+The left image shows a modern office or lounge area with floor-to-ceiling windows, featuring a red sofa, two blue armchairs, a white round coffee table, and built-in shelving along the back wall.
+
+**Search Results:**
+The eyeglasses are **not visible** in the image. All furniture surfaces and shelving areas that are clearly visible do not show the glasses.
+
+**Suggested Search Locations:**
+Based on the room context, I suggest searching in areas that are not fully visible or accessible:
+
+**Top 3 Most Likely Places:**
+1. **Inside the built-in shelving drawers/cabinets** - The teal credenza appears to have storage compartments
+2. **On the shelving units behind decorative items** - Objects could be obscured by plants, books, or decorative pieces
+3. **Under cushions of the seating furniture** - Glasses commonly slip between or under sofa/chair cushions
+
+**Search Area Coordinates:**
+Focus on the built-in shelving wall unit: (40, 25), (75, 25), (75, 65), (40, 65)
+
+**Probability of Success:** 70% - Eyeglasses are commonly misplaced in office/lounge environments, particularly in storage areas or furniture where people sit and work.
+
+
+Qwen 2.5
+-----------------------------------------
+1. The object in the right image is a pair of glasses.
+
+2. Searching the left image for the glasses:
+   - The image of the glasses in the right is placed near the bottom right corner of the left image.
+   - The location of glasses in the left image: Not found.
+
+   Top 3 most likely places to search in the room (based on realistic reasoning):
+   - On the coffee table (20%, 70%)
+   - In the side drawer (60%, 80%)
+   - In the open cabinet (40%, 60%)
+
+3. Search area for glasses:
+   - (20, 70)
+   - (20, 85)
+   - (30, 75)
+   - (35, 80)

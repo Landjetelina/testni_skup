@@ -1,0 +1,45 @@
+Gpt - 4o
+-----------------------------------------
+1. **Object in the Right Image**: An acoustic guitar with a yellowish finish.
+
+2. **Room in the Left Image**: A cluttered office or study space with dual monitors, a bicycle, and various objects on the desk.
+
+3. **Search for the Object**:
+
+   - **Visibility**: The acoustic guitar is not visible in the image of the room.
+   
+   - **Suggested Search Locations**:
+     1. **Behind the desk**: Instruments or their accessories might be placed there for storage.
+     2. **In the corner by the bicycle**: Musical equipment can often be stored upright against a wall.
+     3. **Near or under the desk**: Space could be used as temporary storage.
+
+   - **Search Area Coordinates**: 
+     - (20, 10), (70, 10), (70, 60), (20, 60)
+
+4. **Probability of Successful Search**:
+   - There is approximately a 75% chance of finding the guitar in one of the suggested areas, given the cluttered and multi-use nature of the room.
+
+
+
+Claude 4 Sonnet
+-----------------------------------------
+**Object identification:** A black computer mouse.
+
+**Room identification:** A home office/study room with a dual-monitor computer setup, desk, and various personal items.
+
+**Search result:** I can see a black computer mouse on the desk surface, positioned to the right of the keyboard and near the cat. The mouse appears to be located at approximately **(65%, 25%)**.
+
+The object has been successfully found in the left image at the specified coordinates on the cluttered desk workspace.
+
+
+Qwen 2.5
+-----------------------------------------
+- The object in the right image is a guitar.
+- The room in the left image is a cluttered home office.
+
+We do not see the guitar in the left image. Based on the room context, the guitar is likely to be in one of the following locations:
+1. On a shelf or in a closet (70% probability)
+2. In a corner where it can be stored (20% probability)
+3. On a wall mount (10% probability)
+
+Search area for the guitar: identifying a wall-mounted section within the room, assuming a relatively high chance of it being stored there already.
